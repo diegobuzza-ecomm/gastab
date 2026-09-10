@@ -1,0 +1,32 @@
+slug,keyword,meta_description,estado
+inicio,combustible y grupos electrógenos para empresas,"Gastab abastece combustible y grupos electrógenos a empresas en toda Argentina, con emergencias 24/7. Más de 30 años de experiencia y confianza.",listo
+contacto,contacto Gastab,"Contactá a Gastab para combustible, grupos electrógenos y mantenimiento. Atención 24/7, WhatsApp y email. Te respondemos rápido.",listo
+quienes-somos,proveedor de combustible y grupos electrógenos,"Gastab: más de 30 años de experiencia en combustible y grupos electrógenos para empresas. Conocé nuestra historia y servicios.",listo - revisar contenido demo (ver README, hallazgo 1)
+combustible,combustible para empresas,"Entrega de combustible a granel, recarga de flota, náutica y en obra, las 24 hs. Diesel de calidad, filtrado y trazabilidad. Pedilo con Gastab.",listo
+grupos-electrogenos,grupos electrógenos para empresas,"Alquiler, venta, mantenimiento y recarga de grupos electrógenos para empresas. Servicio técnico y guardia 24/7 con Gastab.",listo
+lubricantes,lubricantes Lubrax y Puma,"Distribuidores oficiales de lubricantes Lubrax y Puma, línea automotriz e industrial. Stock propio y entrega a domicilio.",listo
+urea-32,urea 32 para vehículos,"Abastecimiento de Urea 32 para vehículos con SCR. Entrega a domicilio en IBC o tambores, atención 24/7. Consultá con Gastab.",listo
+gracias,,,sin keyword - página de agradecimiento, sugerido noindex
+gasoil-a-granel,gasoil a granel,"Entrega de gasoil a granel para empresas, desde grandes volúmenes por cisterna. Pedido programado o de emergencia en 8 hs.",listo
+mantenimiento-grupos-electrogenos,mantenimiento de grupos electrógenos,"Mantenimiento preventivo y correctivo de grupos electrógenos en todo el país. Guardia 24/7 y monitoreo de combustible.",listo - página delgada y sin alt en imágenes (ver README, hallazgo 2)
+proveedor-de-combustible,proveedor de combustible,"Proveedor de combustible para empresas en todo el país. Entrega programada o de emergencia en menos de 8 horas.",revisar - duplica abastecimiento-de-combustible-para-empresas (ver README, hallazgo 2)
+gasoil-para-obra,gasoil para obra,"Gasoil para obra, entregado directo en el lugar de trabajo. Servicio programado o de emergencia en menos de 8 horas.",revisar - duplica recarga-en-obra-in-situ (ver README, hallazgo 2)
+recarga-de-combustible,recarga de combustible para grupos electrógenos,"Recarga de combustible para grupos electrógenos, con entrega programada o de emergencia en menos de 8 horas.",revisar - duplica recarga-de-grupos-electrogenos (ver README, hallazgo 2)
+diesel-500,diesel 500 gasoil grado 2,"Diesel 500 (Gasoil Grado 2) para maquinaria, agro y grupos electrógenos. Entrega fraccionada o a granel, con trazabilidad.",listo
+euro-diesel,,,contenido corregido el 2026-09-10 (tenía el contenido de transporte-de-combustible pegado) - falta definir keyword y meta description
+limpieza-de-tanques,limpieza de tanques de combustible,"Limpieza y recirculado de tanques de combustible. Eliminamos agua, sedimentos y contaminación microbiana. Equipo móvil.",listo
+transporte-de-combustible,transporte de combustible,"Transporte de combustible con flota propia y seguimiento satelital. Entregas fraccionadas o a granel, las 24 hs.",listo
+recarga-de-grupos-electrogenos,recarga de grupo electrógeno,"Recarga de combustible para grupos electrógenos, programada o de emergencia en menos de 8 horas. Guardia 365 días.",listo
+abastecimiento-de-emergencia-24hs,abastecimiento de combustible de emergencia,"Abastecimiento de combustible de emergencia, las 24 horas. Entregas en menos de 8 horas para que tu operación no se detenga.",listo
+recarga-flota-a-domicilio,recarga de flota a domicilio,"Recarga de flota a domicilio: Diesel G2, G3 y naftas en tu base, con ticket y trazabilidad. Entregas de 200 a 6.000 litros.",listo
+recarga-nautica,recarga de combustible náutica,"Recarga náutica de Diesel G2 y G3 en tu embarcación, club o amarra. Estación de servicio móvil, sin esperas en marina.",listo
+recarga-en-obra-in-situ,recarga de combustible en obra,"Recarga de combustible en obra, directo donde está tu maquinaria. Suministro constante, con volúmenes flexibles a granel.",listo
+alquiler-y-venta-de-grupos-electrogenos,alquiler y venta de grupos electrógenos,"Alquiler y venta de grupos electrógenos de 20 a 500 kVA, con mantenimiento y combustible incluidos. Entrega inmediata.",listo
+reparacion-de-grupos-electrogenos,reparación de grupos electrógenos,"Reparación de grupos electrógenos de cualquier marca, con servicio de emergencia 24/7 los 365 días del año.",listo
+alquiler-grupo-electrogeno-24-horas,alquiler de grupo electrógeno 24 horas,"Alquiler de grupos electrógenos de 20 a 500 kVA con entrega inmediata, instalación y asesoramiento telefónico 24 horas.",listo
+calculo-de-grupo-electrogeno,cálculo de grupo electrógeno,"Aprendé a calcular la potencia en kVA de tu grupo electrógeno paso a paso, con fórmula, ejemplo y asesoramiento de Gastab.",listo
+mantenimiento-de-combustible,mantenimiento de combustible almacenado,"Mantenimiento de combustible almacenado: recirculado y filtrado periódico para evitar fallas en motores y equipos.",listo
+abastecimiento-de-combustible-para-empresas,abastecimiento de combustible para empresas,"Abastecimiento de combustible para empresas: Diesel G2, G3 y naftas, desde 200 litros hasta grandes volúmenes, 24/7.",listo
+recursos,,,vacía en el export - confirmar en wp-admin
+politica-de-privacidad,,,vacía en el export - confirmar en wp-admin
+terminos-del-servicio,,,vacía en el export - confirmar en wp-admin

@@ -28,6 +28,8 @@ git push
 ## Estructura
 
 - `manifest.csv` — listado maestro: slug, título, tipo, parent, url, archivo.
+- `seo-meta.csv` — keyword y meta description propuestos por página, con columna
+  `estado` (listo / pendiente / revisar). Se va completando página por página.
 - `paginas/*.html` — 20 páginas de contenido clásico (HTML plano en `content:encoded`,
   se editan pegando el HTML completo en el editor de WordPress). Las imágenes ya
   vienen como URL completa dentro del HTML, no hace falta resolver nada.
@@ -71,3 +73,56 @@ campo por campo, no un solo bloque de texto.
 4. Vos commiteás y pusheás con los comandos de arriba.
 
 Todo versionado con git en esta carpeta: cada cambio queda como commit con diff.
+
+## Estado del trabajo de SEO (actualizado 2026-09-10)
+
+### Hecho
+- Keyword + meta description (≤144 caracteres) para 28 de las 31 páginas.
+  Ver `seo-meta.csv` para el detalle completo, columna por columna.
+- `paginas/euro-diesel.html` reescrito: tenía pegado por error el contenido de
+  `transporte-de-combustible.html` (casi idéntico, contenido duplicado en dos URLs
+  distintas). Ahora tiene contenido real sobre Euro Diesel (Gasoil Grado 3),
+  con la misma estructura que `diesel-500.html`. Falta definir su keyword y
+  meta description (queda pendiente en `seo-meta.csv`).
+
+### Pendiente / hallazgos abiertos
+
+1. **Contenido de otro rubro en Inicio y Quiénes somos (ACF)** — el módulo de
+   stats/soluciones de `inicio` (`paginas-campos/inicio.json`) tiene contenido
+   sobre "Hormigón Celular Curado en Autoclave" y "Hormigón Celular Brimax"
+   (bloques de construcción), sin relación con combustible. FAQs son lorem
+   ipsum, tabs son "Tab 1/2/3" genéricos. En `quienes-somos.json`, el equipo y
+   los testimonios dicen "Full name"/"Job title"/lorem ipsum, y los logos de
+   clientes apuntan a `mati.agency`. Es contenido demo del tema sin
+   reemplazar. **Confirmar en wp-admin si esos módulos están activos en el
+   sitio en vivo** — si se ven, es la prioridad número uno.
+
+2. **Páginas delgadas que compiten por la misma keyword que páginas más
+   completas** (posible contenido duplicado/canibalización):
+   - `proveedor-de-combustible.html` vs `abastecimiento-de-combustible-para-empresas.html`
+   - `gasoil-para-obra.html` vs `recarga-en-obra-in-situ.html`
+   - `recarga-de-combustible.html` (su título real es "Recarga de grupos
+     electrógenos", no coincide con el slug) vs `recarga-de-grupos-electrogenos.html`
+   - Estas 3 más `mantenimiento-grupos-electrogenos.html` comparten los mismos
+     bloques genéricos ("Pioneros en el servicio" / "Calidad garantizada" /
+     "Trazabilidad y control") y son, coincidentemente, las únicas páginas sin
+     atributo `alt` en sus imágenes — parecen versiones viejas sin actualizar.
+
+3. **Teléfono/WhatsApp inconsistente entre páginas** — `contacto.json` usa
+   11 5263 5929 y 0810 222 9754; la mayoría de `paginas/*.html` usa
+   `wa.me/5491153017642`; `gasoil-a-granel.html` usa `wa.me/1153017642` (sin
+   código de país). Afecta la consistencia de datos de contacto (NAP) para
+   SEO local.
+
+4. **Falta de `alt` en imágenes** en `gasoil-a-granel.html` (4/9),
+   `gasoil-para-obra.html` (0/5), `mantenimiento-grupos-electrogenos.html`
+   (0/6), `proveedor-de-combustible.html` (0/5), `recarga-de-combustible.html`
+   (0/5). El resto de las páginas clásicas tiene `alt` en todas sus imágenes.
+
+5. **3 páginas sin contenido en el export** (`recursos`,
+   `politica-de-privacidad`, `terminos-del-servicio`) — confirmar en wp-admin
+   si tienen contenido real en el sitio en vivo.
+
+6. **`gracias.json`** es la página de agradecimiento post-formulario, sin
+   contenido propio que justifique keyword/meta — sugerido dejarla como
+   `noindex` en el plugin SEO en vez de definirle metadatos.
