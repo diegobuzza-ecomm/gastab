@@ -1,0 +1,243 @@
+<style>
+    .page.internal .content article { max-width: none !important; }
+
+</style>
+
+<!-- ===================== HERO ===================== -->
+<div style="max-width: 1320px; margin: 0 auto; padding: 2rem 15px 1rem;">
+    <p style="color: #e3000f; font-weight: bold; margin-bottom: 0.5rem; text-transform: uppercase;">Guía práctica</p>
+    <h2 style="font-weight: 900; font-size: 2.5rem; line-height: 1.15; margin-bottom: 1rem; color: #111; max-width: 900px;">Cálculo de Grupo Electrógeno: Cómo Elegir la Potencia Correcta</h2>
+    <p style="color: #444; line-height: 1.6; font-size: 1.3rem; max-width: 820px;">Elegir un grupo electrógeno demasiado chico deja tu operación sin respaldo; uno demasiado grande es un gasto innecesario. En esta guía te explicamos cómo calcular la potencia en kVA que necesitás, y te dejamos una calculadora para estimarla en minutos.</p>
+</div>
+
+<!-- ===================== CONCEPTOS ===================== -->
+<div style="max-width: 1320px; margin: 0 auto; padding: 1.5rem 15px 2rem;">
+    <h2 style="font-weight:800; font-size:1.75rem; color:#111; margin-bottom:1.2rem;">kW y kVA: los conceptos que necesitás entender</h2>
+    <p style="color:#444; line-height:1.7; font-size:1.15rem; margin-bottom:1rem;">
+        Los grupos electrógenos se identifican por su potencia en <strong>kVA</strong> (kilovoltamperios), pero los consumos de tus equipos suelen venir en <strong>kW</strong> (kilovatios) o en W. Entender la diferencia es clave para no equivocarte:
+    </p>
+    <div class="row g-4" style="margin-bottom:1rem;">
+        <div class="col-12 col-md-4">
+            <div style="background:#fafafa; border-radius:10px; padding:1.5rem; height:100%;">
+                <h3 style="font-weight:700; font-size:1.15rem; color:#111; margin-bottom:.4rem;">kW · Potencia activa</h3>
+                <p style="color:#555; font-size:1.05rem; margin:0;">La energía real que consumen tus equipos para funcionar. Es el dato que suele figurar en la etiqueta de cada aparato.</p>
+            </div>
+        </div>
+        <div class="col-12 col-md-4">
+            <div style="background:#fafafa; border-radius:10px; padding:1.5rem; height:100%;">
+                <h3 style="font-weight:700; font-size:1.15rem; color:#111; margin-bottom:.4rem;">kVA · Potencia aparente</h3>
+                <p style="color:#555; font-size:1.05rem; margin:0;">La potencia total que el grupo electrógeno puede entregar. Es la unidad con la que se elige el equipo.</p>
+            </div>
+        </div>
+        <div class="col-12 col-md-4">
+            <div style="background:#fafafa; border-radius:10px; padding:1.5rem; height:100%;">
+                <h3 style="font-weight:700; font-size:1.15rem; color:#111; margin-bottom:.4rem;">Factor de potencia</h3>
+                <p style="color:#555; font-size:1.05rem; margin:0;">La relación entre kW y kVA. En la mayoría de las instalaciones se toma un valor de referencia de 0,8.</p>
+            </div>
+        </div>
+    </div>
+    <p style="color:#444; line-height:1.7; font-size:1.15rem;">
+        La fórmula base es sencilla: <strong>kVA = kW ÷ factor de potencia</strong>. Pero un buen cálculo de grupo electrógeno necesita dos cosas más: contemplar los <strong>picos de arranque</strong> y aplicar un <strong>margen de seguridad</strong>. Lo vemos abajo.
+    </p>
+</div>
+
+<!-- ===================== PASOS ===================== -->
+<section class="section" style="padding: 1rem 0 3rem; background:#fafafa;">
+    <div class="container" style="max-width:1320px;">
+        <h2 class="text-center" style="font-weight:800; margin-bottom:2rem; font-size:1.75rem; color:#111;">Cómo calcular la potencia paso a paso</h2>
+        <div class="row g-4">
+            <div class="col-12 col-md-6 col-lg-3">
+                <div style="background:#fff; border-radius:10px; padding:1.75rem; height:100%; box-shadow:0 2px 10px rgba(0,0,0,.05);">
+                    <div style="width:40px; height:40px; border-radius:50%; background:#e3000f; color:#fff; display:flex; align-items:center; justify-content:center; font-weight:800; margin-bottom:1rem;">1</div>
+                    <h3 style="font-weight:700; margin-bottom:.5rem; font-size:1.1rem; color:#111;">Listá tus consumos</h3>
+                    <p style="color:#555; font-size:1.05rem; margin:0;">Anotá cada equipo que vas a conectar y su potencia en kW (si está en W, dividí por 1000).</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <div style="background:#fff; border-radius:10px; padding:1.75rem; height:100%; box-shadow:0 2px 10px rgba(0,0,0,.05);">
+                    <div style="width:40px; height:40px; border-radius:50%; background:#e3000f; color:#fff; display:flex; align-items:center; justify-content:center; font-weight:800; margin-bottom:1rem;">2</div>
+                    <h3 style="font-weight:700; margin-bottom:.5rem; font-size:1.1rem; color:#111;">Contemplá los arranques</h3>
+                    <p style="color:#555; font-size:1.05rem; margin:0;">Motores, bombas y compresores exigen un pico al arrancar, muy superior a su consumo normal. Ese pico hay que tenerlo en cuenta.</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <div style="background:#fff; border-radius:10px; padding:1.75rem; height:100%; box-shadow:0 2px 10px rgba(0,0,0,.05);">
+                    <div style="width:40px; height:40px; border-radius:50%; background:#e3000f; color:#fff; display:flex; align-items:center; justify-content:center; font-weight:800; margin-bottom:1rem;">3</div>
+                    <h3 style="font-weight:700; margin-bottom:.5rem; font-size:1.1rem; color:#111;">Convertí a kVA</h3>
+                    <p style="color:#555; font-size:1.05rem; margin:0;">Dividí la potencia total en kW por el factor de potencia (0,8) para obtener los kVA.</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <div style="background:#fff; border-radius:10px; padding:1.75rem; height:100%; box-shadow:0 2px 10px rgba(0,0,0,.05);">
+                    <div style="width:40px; height:40px; border-radius:50%; background:#e3000f; color:#fff; display:flex; align-items:center; justify-content:center; font-weight:800; margin-bottom:1rem;">4</div>
+                    <h3 style="font-weight:700; margin-bottom:.5rem; font-size:1.1rem; color:#111;">Sumá el margen</h3>
+                    <p style="color:#555; font-size:1.05rem; margin:0;">Aplicá un margen de seguridad (habitualmente 20%) para que el equipo no trabaje al límite y dure más.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===================== FÓRMULA / DIAGRAMA ===================== -->
+<section class="section" style="padding: 2rem 0 3rem;">
+    <div class="container" style="max-width:1000px;">
+        <h2 class="text-center" style="font-weight:800; margin-bottom:.6rem; font-size:1.75rem; color:#111;">La fórmula del cálculo, paso a paso</h2>
+        <p class="text-center" style="color:#666; font-size:1.05rem; margin-bottom:2.5rem; max-width:720px; margin-left:auto; margin-right:auto;">Así se llega, de forma visual, desde el consumo de tus equipos hasta la potencia en kVA que conviene contratar.</p>
+
+        <!-- Diagrama de flujo de la fórmula -->
+        <div style="display:flex; flex-wrap:wrap; align-items:stretch; justify-content:center; gap:0;">
+
+            <!-- Paso A -->
+            <div style="flex:1 1 200px; min-width:200px; background:#fff; border:1px solid #e7e7ea; border-radius:14px; padding:1.5rem; text-align:center; box-shadow:0 4px 16px rgba(17,17,17,.05);">
+                <div style="width:44px; height:44px; border-radius:12px; background:#f6f7f9; display:flex; align-items:center; justify-content:center; font-size:1.5rem; margin:0 auto .8rem;">🔌</div>
+                <div style="font-size:.78rem; font-weight:800; letter-spacing:.5px; text-transform:uppercase; color:#e3000f; margin-bottom:.4rem;">Paso 1</div>
+                <h3 style="font-weight:800; font-size:1.05rem; color:#111; margin:0 0 .4rem;">Sumá los consumos</h3>
+                <p style="color:#666; font-size:.95rem; margin:0;">Todos tus equipos en kW, multiplicados por su cantidad.</p>
+            </div>
+
+            <div style="display:flex; align-items:center; justify-content:center; font-size:1.8rem; color:#c9c9d0; padding:0 .4rem;">+</div>
+
+            <!-- Paso B -->
+            <div style="flex:1 1 200px; min-width:200px; background:#fff; border:1px solid #e7e7ea; border-radius:14px; padding:1.5rem; text-align:center; box-shadow:0 4px 16px rgba(17,17,17,.05);">
+                <div style="width:44px; height:44px; border-radius:12px; background:#f6f7f9; display:flex; align-items:center; justify-content:center; font-size:1.5rem; margin:0 auto .8rem;">⚙️</div>
+                <div style="font-size:.78rem; font-weight:800; letter-spacing:.5px; text-transform:uppercase; color:#e3000f; margin-bottom:.4rem;">Paso 2</div>
+                <h3 style="font-weight:800; font-size:1.05rem; color:#111; margin:0 0 .4rem;">Pico de arranque</h3>
+                <p style="color:#666; font-size:.95rem; margin:0;">Sumá el excedente del motor o bomba más exigente al arrancar.</p>
+            </div>
+
+            <div style="display:flex; align-items:center; justify-content:center; font-size:1.8rem; color:#c9c9d0; padding:0 .4rem;">÷</div>
+
+            <!-- Paso C -->
+            <div style="flex:1 1 200px; min-width:200px; background:#fff; border:1px solid #e7e7ea; border-radius:14px; padding:1.5rem; text-align:center; box-shadow:0 4px 16px rgba(17,17,17,.05);">
+                <div style="width:44px; height:44px; border-radius:12px; background:#f6f7f9; display:flex; align-items:center; justify-content:center; font-size:1.5rem; margin:0 auto .8rem;">📐</div>
+                <div style="font-size:.78rem; font-weight:800; letter-spacing:.5px; text-transform:uppercase; color:#e3000f; margin-bottom:.4rem;">Paso 3</div>
+                <h3 style="font-weight:800; font-size:1.05rem; color:#111; margin:0 0 .4rem;">Factor de potencia</h3>
+                <p style="color:#666; font-size:.95rem; margin:0;">Dividí por 0,8 para pasar de kW a kVA.</p>
+            </div>
+
+            <div style="display:flex; align-items:center; justify-content:center; font-size:1.8rem; color:#c9c9d0; padding:0 .4rem;">×</div>
+
+            <!-- Paso D -->
+            <div style="flex:1 1 200px; min-width:200px; background:#fff; border:1px solid #e7e7ea; border-radius:14px; padding:1.5rem; text-align:center; box-shadow:0 4px 16px rgba(17,17,17,.05);">
+                <div style="width:44px; height:44px; border-radius:12px; background:#f6f7f9; display:flex; align-items:center; justify-content:center; font-size:1.5rem; margin:0 auto .8rem;">🛡️</div>
+                <div style="font-size:.78rem; font-weight:800; letter-spacing:.5px; text-transform:uppercase; color:#e3000f; margin-bottom:.4rem;">Paso 4</div>
+                <h3 style="font-weight:800; font-size:1.05rem; color:#111; margin:0 0 .4rem;">Margen de seguridad</h3>
+                <p style="color:#666; font-size:.95rem; margin:0;">Multiplicá por 1,20 (un 20% extra) para no trabajar al límite.</p>
+            </div>
+
+        </div>
+
+        <!-- Fórmula resultante -->
+        <div style="background:linear-gradient(135deg,#161616,#2a2a2e); color:#fff; border-radius:16px; padding:2rem; margin-top:2rem; text-align:center;">
+            <div style="font-size:.78rem; text-transform:uppercase; letter-spacing:1px; color:#ff8a6b; font-weight:800; margin-bottom:.8rem;">La fórmula</div>
+            <div style="font-size:1.35rem; font-weight:800; line-height:1.5;">
+                kVA = ( consumo total en kW + pico de arranque ) ÷ 0,8 × 1,20
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===================== EJEMPLO ===================== -->
+<div style="max-width: 1320px; margin: 0 auto; padding: 1rem 15px 2rem;">
+    <div style="background:#f8f9fa; border-radius:10px; padding:2rem 2.5rem; max-width:900px; margin:0 auto;">
+        <h2 style="font-weight:800; font-size:1.4rem; color:#111; margin-bottom:1rem;">Un ejemplo simple</h2>
+        <p style="color:#444; line-height:1.7; font-size:1.1rem; margin-bottom:.6rem;">
+            Supongamos que sumás <strong>15 kW</strong> de consumo entre todos tus equipos. Al dividir por el factor de potencia (0,8), obtenés <strong>18,75 kVA</strong>. Aplicando un margen de seguridad del 20%, llegás a unos <strong>22,5 kVA</strong>.
+        </p>
+        <p style="color:#444; line-height:1.7; font-size:1.1rem; margin:0;">
+            En ese caso, lo recomendable sería elegir un grupo electrógeno de la medida estándar inmediata superior, para cubrir tanto el consumo continuo como los picos de arranque sin trabajar al límite.
+        </p>
+    </div>
+</div>
+
+<!-- ===================== CTA / SERVICIOS GASTAB ===================== -->
+<section class="section" style="padding: 1rem 0 3rem; background:#fafafa;">
+    <div class="container" style="max-width:1320px;">
+        <h2 class="text-center" style="font-weight:800; margin-bottom:1rem; font-size:1.75rem; color:#111;">¿Preferís que lo calculemos por vos?</h2>
+        <p class="text-center" style="color:#555; font-size:1.15rem; max-width:760px; margin:0 auto 2rem;">
+            La calculadora te da una estimación, pero cada instalación tiene sus particularidades. En Gastab te asesoramos para elegir la potencia adecuada, con visitas de relevamiento cuando el proyecto lo requiere, y contamos con una flota propia de grupos electrógenos desde 20 kVA hasta 500 kVA, en alquiler o venta.
+        </p>
+        <div class="row g-4">
+            <div class="col-12 col-md-4">
+                <div style="background:#fff; border-radius:10px; padding:1.75rem; height:100%; box-shadow:0 2px 10px rgba(0,0,0,.05); text-align:center;">
+                    <div style="font-size:2rem; margin-bottom:.5rem;">📋</div>
+                    <h3 style="font-weight:700; font-size:1.15rem; color:#111; margin-bottom:.4rem;">Asesoramiento</h3>
+                    <p style="color:#555; font-size:1.05rem; margin:0;">Te ayudamos a elegir la potencia justa según tu consumo y tu tipo de operación.</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div style="background:#fff; border-radius:10px; padding:1.75rem; height:100%; box-shadow:0 2px 10px rgba(0,0,0,.05); text-align:center;">
+                    <div style="font-size:2rem; margin-bottom:.5rem;">🔍</div>
+                    <h3 style="font-weight:700; font-size:1.15rem; color:#111; margin-bottom:.4rem;">Relevamiento</h3>
+                    <p style="color:#555; font-size:1.05rem; margin:0;">Realizamos visitas de relevamiento para definir el equipo y la instalación adecuados.</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div style="background:#fff; border-radius:10px; padding:1.75rem; height:100%; box-shadow:0 2px 10px rgba(0,0,0,.05); text-align:center;">
+                    <div style="font-size:2rem; margin-bottom:.5rem;">⚡</div>
+                    <h3 style="font-weight:700; font-size:1.15rem; color:#111; margin-bottom:.4rem;">Flota 20 a 500 kVA</h3>
+                    <p style="color:#555; font-size:1.05rem; margin:0;">Equipos en alquiler o venta, con entrega inmediata, instalación y combustible incluido.</p>
+                </div>
+            </div>
+        </div>
+        <p style="text-align:center; margin-top:1.5rem;"><div>
+            Conocé nuestro <a href="https://gastab.com.ar/alquiler-grupos-electrogenos/" style="color:#e3000f; font-weight:700; text-decoration:none;">alquiler de grupos electrógenos</a> y el <a href="https://gastab.com.ar/grupos-electrogenos/" style="color:#e3000f; font-weight:700; text-decoration:none;">servicio integral de grupos electrógenos</a>.
+        </div></p>
+    </div>
+</section>
+
+<!-- ===================== FAQ ===================== -->
+<section class="section" style="padding: 1rem 0 3rem;">
+    <div class="container" style="max-width: 900px;">
+        <h2 class="text-center" style="font-weight:800; margin-bottom:2rem; font-size:1.75rem; color:#111;">Preguntas frecuentes sobre el cálculo de grupos electrógenos</h2>
+
+        <details style="background:#f8f9fa; border-radius:10px; padding:1.2rem 1.5rem; margin-bottom:1rem;">
+            <summary style="font-weight:700; font-size:1.1rem; color:#111; cursor:pointer;">¿Cuál es la diferencia entre kW y kVA?</summary>
+            <p style="color:#555; font-size:1.05rem; margin:.8rem 0 0;">El kW es la potencia real que consumen los equipos, mientras que el kVA es la potencia total que el grupo electrógeno puede entregar. Se relacionan a través del factor de potencia (habitualmente 0,8).</p>
+        </details>
+
+        <details style="background:#f8f9fa; border-radius:10px; padding:1.2rem 1.5rem; margin-bottom:1rem;">
+            <summary style="font-weight:700; font-size:1.1rem; color:#111; cursor:pointer;">¿Por qué hay que contemplar los picos de arranque?</summary>
+            <p style="color:#555; font-size:1.05rem; margin:.8rem 0 0;">Equipos como motores, bombas y compresores exigen al arrancar mucha más potencia que la que consumen en funcionamiento normal. Si no se contempla ese pico, el generador puede sufrir caídas de tensión al encender esas cargas.</p>
+        </details>
+
+        <details style="background:#f8f9fa; border-radius:10px; padding:1.2rem 1.5rem; margin-bottom:1rem;">
+            <summary style="font-weight:700; font-size:1.1rem; color:#111; cursor:pointer;">¿Qué margen de seguridad conviene aplicar?</summary>
+            <p style="color:#555; font-size:1.05rem; margin:.8rem 0 0;">Como referencia general se suele aplicar un margen del 20%. Si el grupo va a ser la fuente principal de energía y trabajará de forma continua, conviene un margen mayor para que no opere al límite de su capacidad.</p>
+        </details>
+
+        <details style="background:#f8f9fa; border-radius:10px; padding:1.2rem 1.5rem; margin-bottom:1rem;">
+            <summary style="font-weight:700; font-size:1.1rem; color:#111; cursor:pointer;">¿Qué pasa si elijo un grupo electrógeno demasiado chico o demasiado grande?</summary>
+            <p style="color:#555; font-size:1.05rem; margin:.8rem 0 0;">Uno demasiado chico puede sobrecargarse, apagarse o dañar los equipos conectados. Uno demasiado grande implica un gasto innecesario y puede trabajar de forma ineficiente. Por eso el cálculo correcto es tan importante.</p>
+        </details>
+
+        <details style="background:#f8f9fa; border-radius:10px; padding:1.2rem 1.5rem; margin-bottom:1rem;">
+            <summary style="font-weight:700; font-size:1.1rem; color:#111; cursor:pointer;">¿La calculadora reemplaza a un cálculo profesional?</summary>
+            <p style="color:#555; font-size:1.05rem; margin:.8rem 0 0;">No. La calculadora ofrece una estimación orientativa para tener una idea inicial. Para un dimensionamiento definitivo, lo recomendable es un relevamiento y el asesoramiento de un técnico, que contempla las particularidades de tu instalación.</p>
+        </details>
+
+    </div>
+</section>
+
+<!-- ===================== CTA FINAL ===================== -->
+<section class="section" style="padding: 3rem 0;">
+    <div class="container" style="max-width:1320px;">
+        <div style="background:#e3000f; border-radius:14px; padding:3rem 2rem; text-align:center; color:#fff;">
+            <h2 style="font-weight:900; font-size:2rem; margin-bottom:.8rem;">¿Necesitás ayuda para elegir tu grupo electrógeno?</h2>
+            <p style="font-size:1.15rem; margin-bottom:1.8rem; opacity:.95;">Contactá a Gastab y te asesoramos para definir la potencia adecuada, en alquiler o venta.</p>
+
+            <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
+                <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar asesoramiento</a>
+                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Escribir por WhatsApp</a>
+            </div>
+
+            <p style="margin:0; font-size:1rem;">
+                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
+            </p>
+        </div>
+    </div>
+</section>

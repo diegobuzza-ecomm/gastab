@@ -1,0 +1,19 @@
+{
+  "contact_title": "Hablemos",
+  "contact_email": "info@gastab.com.ar",
+  "contact_phone": "11 5263 5929",
+  "contact_whatsapp": "115263 5929",
+  "socialmedia": "2",
+  "newsletter_title": "Newsletter",
+  "newsletter_description": "Description",
+  "map": "a:13:{s:7:\"address\";s:79:\"Shed B Stall 68, Queen Victoria Market, Queen St, Melbourne VIC 3000, Australia\";s:3:\"lat\";d:-37.80754617047210786040523089468479156494140625;s:3:\"lng\";d:144.95670318603515625;s:4:\"zoom\";i:14;s:8:\"place_id\";s:27:\"ChIJwXZ13VdD1moRgshIw2NvgAw\";s:11:\"street_name\";s:12:\"Queen Street\";s:17:\"street_name_short\";s:8:\"Queen St\";s:4:\"city\";s:9:\"Melbourne\";s:5:\"state\";s:8:\"Victoria\";s:11:\"state_short\";s:3:\"VIC\";s:9:\"post_code\";s:4:\"3000\";s:7:\"country\";s:9:\"Australia\";s:13:\"country_short\";s:2:\"AU\";}",
+  "banner_banner_title": "Contact page",
+  "contact_email_form": "info@gastab.com.ar",
+  "contact_address": "Av. Crovara 1801 La Tablada.",
+  "contact_description": "¿Necesitás alguno de nuestros servicios? \nContactanos para más información.",
+  "socialmedia_0_type": "instagram",
+  "socialmedia_0_url": "#",
+  "socialmedia_1_type": "linkedin",
+  "socialmedia_1_url": "#",
+  "contact_0800": "0810 222 9754 "
+}

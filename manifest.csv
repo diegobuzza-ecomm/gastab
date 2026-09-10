@@ -1,0 +1,32 @@
+slug,titulo,tipo,parent_slug,menu_order,url,campos_no_vacios,archivo
+inicio,Inicio,campos_acf,,0,https://gastab.com.ar/inicio/,187,paginas-campos/inicio.json
+contacto,Contacto,campos_acf,,0,https://gastab.com.ar/contacto/,17,paginas-campos/contacto.json
+quienes-somos,Quiénes somos,campos_acf,,0,https://gastab.com.ar/quienes-somos/,109,paginas-campos/quienes-somos.json
+combustible,Combustible,campos_acf,,0,https://gastab.com.ar/combustible/,127,paginas-campos/combustible.json
+grupos-electrogenos,Grupos electrógenos,campos_acf,,0,https://gastab.com.ar/grupos-electrogenos/,84,paginas-campos/grupos-electrogenos.json
+lubricantes,Lubricantes,campos_acf,,0,https://gastab.com.ar/lubricantes/,15,paginas-campos/lubricantes.json
+urea-32,Urea 32,campos_acf,,0,https://gastab.com.ar/urea-32/,13,paginas-campos/urea-32.json
+gracias,Gracias,campos_acf,,0,https://gastab.com.ar/gracias/,4,paginas-campos/gracias.json
+gasoil-a-granel,Gasoil a granel,classic_html,,0,https://gastab.com.ar/gasoil-a-granel/,0,paginas/gasoil-a-granel.html
+mantenimiento-grupos-electrogenos,Mantenimiento de Grupos Electrógenos,classic_html,,0,https://gastab.com.ar/mantenimiento-grupos-electrogenos/,0,paginas/mantenimiento-grupos-electrogenos.html
+proveedor-de-combustible,Proveedor de combustible,classic_html,,0,https://gastab.com.ar/proveedor-de-combustible/,0,paginas/proveedor-de-combustible.html
+gasoil-para-obra,Gasoil para obra,classic_html,,0,https://gastab.com.ar/gasoil-para-obra/,0,paginas/gasoil-para-obra.html
+recarga-de-combustible,Recarga de combustible,classic_html,,0,https://gastab.com.ar/recarga-de-combustible/,0,paginas/recarga-de-combustible.html
+diesel-500,Diesel 500,classic_html,,0,https://gastab.com.ar/diesel-500/,0,paginas/diesel-500.html
+euro-diesel,Euro Diesel,classic_html,,0,https://gastab.com.ar/euro-diesel/,0,paginas/euro-diesel.html
+limpieza-de-tanques,Limpieza de tanques,classic_html,,0,https://gastab.com.ar/limpieza-de-tanques/,0,paginas/limpieza-de-tanques.html
+transporte-de-combustible,Transporte de combustible,classic_html,,0,https://gastab.com.ar/transporte-de-combustible/,0,paginas/transporte-de-combustible.html
+recarga-de-grupos-electrogenos,Recarga de grupos electrógenos,classic_html,,0,https://gastab.com.ar/recarga-de-grupos-electrogenos/,0,paginas/recarga-de-grupos-electrogenos.html
+abastecimiento-de-emergencia-24hs,Abastecimiento de emergencia 24hs,classic_html,,0,https://gastab.com.ar/abastecimiento-de-emergencia-24hs/,0,paginas/abastecimiento-de-emergencia-24hs.html
+recarga-flota-a-domicilio,Recarga flota a domicilio,classic_html,,0,https://gastab.com.ar/recarga-flota-a-domicilio/,0,paginas/recarga-flota-a-domicilio.html
+recarga-nautica,Recarga náutica,classic_html,,0,https://gastab.com.ar/recarga-nautica/,0,paginas/recarga-nautica.html
+recarga-en-obra-in-situ,Recarga en obra in situ,classic_html,,0,https://gastab.com.ar/recarga-en-obra-in-situ/,0,paginas/recarga-en-obra-in-situ.html
+alquiler-y-venta-de-grupos-electrogenos,Alquiler y venta de grupos electrógenos,classic_html,,0,https://gastab.com.ar/alquiler-y-venta-de-grupos-electrogenos/,0,paginas/alquiler-y-venta-de-grupos-electrogenos.html
+reparacion-de-grupos-electrogenos,Reparación de grupos electrógenos,classic_html,,0,https://gastab.com.ar/reparacion-de-grupos-electrogenos/,0,paginas/reparacion-de-grupos-electrogenos.html
+alquiler-grupo-electrogeno-24-horas,Alquiler grupo electrógeno 24 horas,classic_html,,0,https://gastab.com.ar/alquiler-grupo-electrogeno-24-horas/,0,paginas/alquiler-grupo-electrogeno-24-horas.html
+calculo-de-grupo-electrogeno,Cálculo de grupo electrógeno,classic_html,,0,https://gastab.com.ar/calculo-de-grupo-electrogeno/,0,paginas/calculo-de-grupo-electrogeno.html
+mantenimiento-de-combustible,Mantenimiento de combustible,classic_html,,0,https://gastab.com.ar/mantenimiento-de-combustible/,0,paginas/mantenimiento-de-combustible.html
+abastecimiento-de-combustible-para-empresas,Abastecimiento de combustible para empresas,classic_html,,0,https://gastab.com.ar/abastecimiento-de-combustible-para-empresas/,0,paginas/abastecimiento-de-combustible-para-empresas.html
+recursos,Recursos,vacia,,0,https://gastab.com.ar/recursos/,0,(vacia)
+politica-de-privacidad,Política de privacidad,vacia,,0,https://gastab.com.ar/politica-de-privacidad/,0,(vacia)
+terminos-del-servicio,Términos del servicio,vacia,,0,https://gastab.com.ar/terminos-del-servicio/,0,(vacia)
