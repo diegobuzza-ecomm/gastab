@@ -1,15 +1,15 @@
 slug,keyword,meta_description,estado
 inicio,combustible y grupos electrógenos para empresas,"Gastab abastece combustible y grupos electrógenos a empresas en toda Argentina, con emergencias 24/7. Más de 30 años de experiencia y confianza.",listo
 contacto,contacto Gastab,"Contactá a Gastab para combustible, grupos electrógenos y mantenimiento. Atención 24/7, WhatsApp y email. Te respondemos rápido.",listo
-quienes-somos,proveedor de combustible y grupos electrógenos,"Gastab: más de 30 años de experiencia en combustible y grupos electrógenos para empresas. Conocé nuestra historia y servicios.",listo - revisar contenido demo (ver README, hallazgo 1)
+quienes-somos,proveedor de combustible y grupos electrógenos,Gastab: más de 30 años de experiencia en combustible y grupos electrógenos para empresas. Conocé nuestra historia y servicios.,listo - revisar contenido demo (ver README, hallazgo 1)
 combustible,combustible para empresas,"Entrega de combustible a granel, recarga de flota, náutica y en obra, las 24 hs. Diesel de calidad, filtrado y trazabilidad. Pedilo con Gastab.",listo
 grupos-electrogenos,grupos electrógenos para empresas,"Alquiler, venta, mantenimiento y recarga de grupos electrógenos para empresas. Servicio técnico y guardia 24/7 con Gastab.",listo
 lubricantes,lubricantes Lubrax y Puma,"Distribuidores oficiales de lubricantes Lubrax y Puma, línea automotriz e industrial. Stock propio y entrega a domicilio.",listo
 urea-32,urea 32 para vehículos,"Abastecimiento de Urea 32 para vehículos con SCR. Entrega a domicilio en IBC o tambores, atención 24/7. Consultá con Gastab.",listo
 gracias,,,sin keyword - página de agradecimiento, sugerido noindex
 gasoil-a-granel,gasoil a granel,"Entrega de gasoil a granel para empresas, desde grandes volúmenes por cisterna. Pedido programado o de emergencia en 8 hs.",listo
-mantenimiento-grupos-electrogenos,mantenimiento de grupos electrógenos,"Mantenimiento preventivo y correctivo de grupos electrógenos en todo el país. Guardia 24/7 y monitoreo de combustible.",listo - página delgada y sin alt en imágenes (ver README, hallazgo 2)
-proveedor-de-combustible,proveedor de combustible,"Proveedor de combustible para empresas en todo el país. Entrega programada o de emergencia en menos de 8 horas.",revisar - duplica abastecimiento-de-combustible-para-empresas (ver README, hallazgo 2)
+mantenimiento-grupos-electrogenos,mantenimiento de grupos electrógenos,Mantenimiento preventivo y correctivo de grupos electrógenos en todo el país. Guardia 24/7 y monitoreo de combustible.,listo - página delgada y sin alt en imágenes (ver README, hallazgo 2)
+proveedor-de-combustible,proveedor de combustible,Proveedor de combustible para empresas en todo el país. Entrega programada o de emergencia en menos de 8 horas.,revisar - duplica abastecimiento-de-combustible-para-empresas (ver README, hallazgo 2)
 gasoil-para-obra,gasoil para obra,"Gasoil para obra, entregado directo en el lugar de trabajo. Servicio programado o de emergencia en menos de 8 horas.",revisar - duplica recarga-en-obra-in-situ (ver README, hallazgo 2)
 recarga-de-combustible,recarga de combustible para grupos electrógenos,"Recarga de combustible para grupos electrógenos, con entrega programada o de emergencia en menos de 8 horas.",revisar - duplica recarga-de-grupos-electrogenos (ver README, hallazgo 2)
 diesel-500,diesel 500 gasoil grado 2,"Diesel 500 (Gasoil Grado 2) para maquinaria, agro y grupos electrógenos. Entrega fraccionada o a granel, con trazabilidad.",listo
@@ -25,8 +25,30 @@ alquiler-y-venta-de-grupos-electrogenos,alquiler y venta de grupos electrógenos
 reparacion-de-grupos-electrogenos,reparación de grupos electrógenos,"Reparación de grupos electrógenos de cualquier marca, con servicio de emergencia 24/7 los 365 días del año.",listo
 alquiler-grupo-electrogeno-24-horas,alquiler de grupo electrógeno 24 horas,"Alquiler de grupos electrógenos de 20 a 500 kVA con entrega inmediata, instalación y asesoramiento telefónico 24 horas.",listo
 calculo-de-grupo-electrogeno,cálculo de grupo electrógeno,"Aprendé a calcular la potencia en kVA de tu grupo electrógeno paso a paso, con fórmula, ejemplo y asesoramiento de Gastab.",listo
-mantenimiento-de-combustible,mantenimiento de combustible almacenado,"Mantenimiento de combustible almacenado: recirculado y filtrado periódico para evitar fallas en motores y equipos.",listo
+mantenimiento-de-combustible,mantenimiento de combustible almacenado,Mantenimiento de combustible almacenado: recirculado y filtrado periódico para evitar fallas en motores y equipos.,listo
 abastecimiento-de-combustible-para-empresas,abastecimiento de combustible para empresas,"Abastecimiento de combustible para empresas: Diesel G2, G3 y naftas, desde 200 litros hasta grandes volúmenes, 24/7.",listo
 recursos,,,vacía en el export - confirmar en wp-admin
 politica-de-privacidad,,,vacía en el export - confirmar en wp-admin
 terminos-del-servicio,,,vacía en el export - confirmar en wp-admin
+combustible/campana-zarate,combustible para agro e industria Campana y Zárate,"Entrega de combustible para agro e industria en Campana y Zárate, desde 1000 litros. Cobertura de toda la zona. Pedilo con Gastab.",listo
+grupos-electrogenos/campana-zarate,mantenimiento de grupos electrógenos Campana y Zárate,"Mantenimiento, reparación y servicio de tanque de grupos electrógenos en Campana y Zárate. Guardia 24/7. Cobertura de toda la zona.",listo
+combustible/rosario-san-lorenzo,combustible para agro e industria Rosario y San Lorenzo,"Entrega de combustible para agro e industria en Rosario y San Lorenzo, desde 1000 litros. Cobertura de toda la zona. Pedilo con Gastab.",listo
+grupos-electrogenos/rosario-san-lorenzo,mantenimiento de grupos electrógenos Rosario y San Lorenzo,"Mantenimiento, reparación y servicio de tanque de grupos electrógenos en Rosario y San Lorenzo. Guardia 24/7. Cobertura de toda la zona.",listo
+combustible/san-nicolas-ramallo,combustible para agro e industria San Nicolás y Ramallo,"Entrega de combustible para agro e industria en San Nicolás y Ramallo, desde 1000 litros. Cobertura de toda la zona. Pedilo con Gastab.",listo
+grupos-electrogenos/san-nicolas-ramallo,mantenimiento de grupos electrógenos San Nicolás y Ramallo,"Mantenimiento, reparación y servicio de tanque de grupos electrógenos en San Nicolás y Ramallo. Guardia 24/7. Cobertura de toda la zona.",listo
+combustible/pergamino,combustible para agro e industria Pergamino,"Entrega de combustible para agro e industria en Pergamino, desde 1000 litros. Cobertura de toda la zona. Pedilo con Gastab.",listo
+grupos-electrogenos/pergamino,mantenimiento de grupos electrógenos Pergamino,"Mantenimiento, reparación y servicio de tanque de grupos electrógenos en Pergamino. Guardia 24/7. Cobertura de toda la zona.",listo
+combustible/junin,combustible para agro e industria Junín,"Entrega de combustible para agro e industria en Junín, desde 1000 litros. Cobertura de toda la zona. Pedilo con Gastab.",listo
+grupos-electrogenos/junin,mantenimiento de grupos electrógenos Junín,"Mantenimiento, reparación y servicio de tanque de grupos electrógenos en Junín. Guardia 24/7. Cobertura de toda la zona.",listo
+combustible/chivilcoy-bragado,combustible para agro e industria Chivilcoy y Bragado,"Entrega de combustible para agro e industria en Chivilcoy y Bragado, desde 1000 litros. Cobertura de toda la zona. Pedilo con Gastab.",listo
+grupos-electrogenos/chivilcoy-bragado,mantenimiento de grupos electrógenos Chivilcoy y Bragado,"Mantenimiento, reparación y servicio de tanque de grupos electrógenos en Chivilcoy y Bragado. Guardia 24/7. Cobertura de toda la zona.",listo
+combustible/9-de-julio,combustible para agro e industria 9 de Julio,"Entrega de combustible para agro e industria en 9 de Julio, desde 1000 litros. Cobertura de toda la zona. Pedilo con Gastab.",listo
+grupos-electrogenos/9-de-julio,mantenimiento de grupos electrógenos 9 de Julio,"Mantenimiento, reparación y servicio de tanque de grupos electrógenos en 9 de Julio. Guardia 24/7. Cobertura de toda la zona.",listo
+combustible/rafaela,combustible para agro e industria Rafaela,"Entrega de combustible para agro e industria en Rafaela, desde 1000 litros. Cobertura de toda la zona. Pedilo con Gastab.",listo
+grupos-electrogenos/rafaela,mantenimiento de grupos electrógenos Rafaela,"Mantenimiento, reparación y servicio de tanque de grupos electrógenos en Rafaela. Guardia 24/7. Cobertura de toda la zona.",listo
+combustible/santa-fe-sauce-viejo,combustible para agro e industria Santa Fe y Sauce Viejo,"Entrega de combustible para agro e industria en Santa Fe y Sauce Viejo, desde 1000 litros. Cobertura de toda la zona. Pedilo con Gastab.",listo
+grupos-electrogenos/santa-fe-sauce-viejo,mantenimiento de grupos electrógenos Santa Fe y Sauce Viejo,"Mantenimiento, reparación y servicio de tanque de grupos electrógenos en Santa Fe y Sauce Viejo. Guardia 24/7. Cobertura de toda la zona.",listo
+combustible/la-plata-berisso-ensenada,"combustible para agro e industria La Plata, Berisso y Ensenada","Entrega de combustible para agro e industria en La Plata, Berisso y Ensenada, desde 1000 litros. Cobertura de toda la zona. Pedilo con Gastab.",listo
+grupos-electrogenos/la-plata-berisso-ensenada,"mantenimiento de grupos electrógenos La Plata, Berisso y Ensenada","Mantenimiento, reparación y servicio de tanque de grupos electrógenos en La Plata, Berisso y Ensenada. Guardia 24/7. Cobertura de toda la zona.",listo
+combustible/zona-de-combustible,combustible por zona Buenos Aires Santa Fe,Cobertura de combustible para agro e industria por zona en el interior de Buenos Aires y Santa Fe. Elegí tu zona y consultá con Gastab.,listo
+grupos-electrogenos/zona-de-grupos-electrogenos,grupos electrógenos por zona Buenos Aires Santa Fe,Cobertura de mantenimiento de grupos electrógenos por zona en el interior de Buenos Aires y Santa Fe. Elegí tu zona y consultá con Gastab.,listo

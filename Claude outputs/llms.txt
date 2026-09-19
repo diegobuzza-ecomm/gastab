@@ -1,0 +1,47 @@
+# GASTAB
+
+> Empresa argentina de energía industrial: abastecimiento de combustible (diésel, naftas, lubricantes, urea 32) y grupos electrógenos (alquiler, venta, mantenimiento y reparación) para empresas. Más de 30 años de trayectoria, base en La Tablada (Buenos Aires), cobertura y entregas de emergencia 24/7 en toda Argentina.
+
+Gastab atiende empresas de logística, construcción, agro, náutica y servicios financieros que necesitan combustible o respaldo energético sin interrupciones. Los dos servicios centrales son abastecimiento de combustible (a granel, fraccionado, en obra, náutico o a domicilio) y grupos electrógenos (venta, alquiler, service técnico), con guardia de emergencia que entrega en menos de 8 horas.
+
+## Empresa
+
+- [Inicio](https://gastab.com.ar/): Presentación general de Gastab, combustible y grupos electrógenos para empresas.
+- [Quiénes somos](https://gastab.com.ar/quienes-somos/): Historia y trayectoria de más de 30 años en combustible y grupos electrógenos.
+- [Contacto](https://gastab.com.ar/contacto/): Vías de contacto, atención 24/7, WhatsApp y email.
+
+## Combustible
+
+- [Combustible](https://gastab.com.ar/combustible/): Entrega de combustible a granel, recarga de flota, náutica y en obra, las 24 hs.
+- [Gasoil a granel](https://gastab.com.ar/gasoil-a-granel/): Entrega desde grandes volúmenes por cisterna (5000+ litros), pedido programado o de emergencia en 8 hs.
+- [Diesel 500 (Gasoil Grado 2)](https://gastab.com.ar/diesel-500/): Para maquinaria, agro y grupos electrógenos, entrega fraccionada o a granel, con trazabilidad.
+- [Euro Diesel](https://gastab.com.ar/euro-diesel/): Combustible diésel de especificación europea.
+- [Transporte de combustible](https://gastab.com.ar/transporte-de-combustible/): Flota propia con seguimiento satelital, entregas fraccionadas o a granel.
+- [Recarga flota a domicilio](https://gastab.com.ar/recarga-flota-a-domicilio/): Diesel G2, G3 y naftas en la base del cliente, de 200 a 6.000 litros.
+- [Recarga náutica](https://gastab.com.ar/recarga-nautica/): Recarga de Diesel G2/G3 en embarcación, club o amarra.
+- [Recarga en obra in situ](https://gastab.com.ar/recarga-en-obra-in-situ/): Suministro directo donde está la maquinaria, volúmenes flexibles a granel.
+- [Abastecimiento de emergencia 24hs](https://gastab.com.ar/abastecimiento-de-emergencia-24hs/): Entregas de combustible en menos de 8 horas para no frenar la operación.
+- [Abastecimiento de combustible para empresas](https://gastab.com.ar/abastecimiento-de-combustible-para-empresas/): Diesel G2, G3 y naftas, desde 200 litros hasta grandes volúmenes, 24/7.
+- [Mantenimiento de combustible almacenado](https://gastab.com.ar/mantenimiento-de-combustible/): Recirculado y filtrado periódico para evitar fallas por combustible degradado.
+- [Limpieza de tanques](https://gastab.com.ar/limpieza-de-tanques/): Limpieza y recirculado, eliminación de agua, sedimentos y contaminación microbiana.
+
+## Grupos electrógenos
+
+- [Grupos electrógenos](https://gastab.com.ar/grupos-electrogenos/): Alquiler, venta, mantenimiento y recarga, con servicio técnico y guardia 24/7.
+- [Alquiler y venta de grupos electrógenos](https://gastab.com.ar/alquiler-y-venta-de-grupos-electrogenos/): De 20 a 500 kVA, con mantenimiento y combustible incluidos.
+- [Alquiler de grupo electrógeno 24 horas](https://gastab.com.ar/alquiler-grupo-electrogeno-24-horas/): Entrega inmediata, instalación y asesoramiento telefónico.
+- [Reparación de grupos electrógenos](https://gastab.com.ar/reparacion-de-grupos-electrogenos/): Cualquier marca, servicio de emergencia 24/7 los 365 días.
+- [Mantenimiento de grupos electrógenos](https://gastab.com.ar/mantenimiento-grupos-electrogenos/): Preventivo y correctivo en todo el país, con monitoreo de combustible.
+- [Recarga de grupos electrógenos](https://gastab.com.ar/recarga-de-grupos-electrogenos/): Programada o de emergencia en menos de 8 horas.
+- [Cálculo de grupo electrógeno](https://gastab.com.ar/calculo-de-grupo-electrogeno/): Guía para calcular la potencia en kVA necesaria, con fórmula y ejemplo.
+
+## Otros productos
+
+- [Lubricantes](https://gastab.com.ar/lubricantes/): Distribuidores oficiales Lubrax y Puma, línea automotriz e industrial.
+- [Urea 32](https://gastab.com.ar/urea-32/): Abastecimiento para vehículos con SCR, entrega a domicilio en IBC o tambores.
+
+## Optional
+
+- [Proveedor de combustible](https://gastab.com.ar/proveedor-de-combustible/): Contenido similar a "Abastecimiento de combustible para empresas", pendiente de consolidación.
+- [Gasoil para obra](https://gastab.com.ar/gasoil-para-obra/): Contenido similar a "Recarga en obra in situ", pendiente de consolidación.
+- [Recarga de combustible](https://gastab.com.ar/recarga-de-combustible/): Contenido similar a "Recarga de grupos electrógenos", pendiente de consolidación.
