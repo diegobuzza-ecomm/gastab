@@ -92,11 +92,12 @@ tiene nada que ver con usarla como padre de otras páginas.
    bloques genéricos y son las únicas sin `alt` en sus imágenes — parecen
    versiones viejas sin actualizar.
 
-3. **Teléfono/WhatsApp inconsistente**: `wa.me/5491153017642` en la mayoría
-   de páginas, `wa.me/1153017642` en `gasoil-a-granel`, `0810 222 9754` y
-   `11 5263 5929` en contacto. Afecta el NAP para SEO local. **Para páginas
-   nuevas se usa solo `0810 222 9754` + link a `/contacto/`, sin WhatsApp**,
-   hasta que esto se resuelva de fondo.
+3. **Teléfono/WhatsApp inconsistente** — *resuelto en los HTML (2026-09-28)*.
+   Único teléfono válido: `0810-222-9754` (`tel:08102229754`). No hay
+   WhatsApp oficial: se reemplazaron todos los `wa.me/...`,
+   `+54 9 11 5301-7642` y `11 5263 5929`. **Pendiente en WordPress**:
+   `contacto` (campos `contact_whatsapp` / teléfono con `11 5263 5929`) y
+   `quienes-somos` (link `wa.me/1153017642`).
 
 4. **Falta `alt`** en imágenes de `gasoil-a-granel` (4/9), `gasoil-para-obra`
    (0/5), `mantenimiento-grupos-electrogenos` (0/6), `proveedor-de-combustible`

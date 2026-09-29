@@ -29,7 +29,7 @@
 	<title>GASTAB</title>
 	<link>https://gastab.com.ar</link>
 	<description>Energía en Marcha</description>
-	<pubDate>Mon, 28 Sep 2026 23:18:04 +0000</pubDate>
+	<pubDate>Tue, 29 Sep 2026 22:41:54 +0000</pubDate>
 	<language>es</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://gastab.com.ar</wp:base_site_url>
@@ -5127,8 +5127,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-24 09:10:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-24 09:10:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-19 19:22:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-19 22:22:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-28 23:06:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 02:06:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[inicio]]></wp:post_name>
@@ -6551,7 +6551,7 @@ mantenimiento]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[links_items_1_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://gastab.com.ar/combustible/#filtrado]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://gastab.com.ar/mantenimiento-de-combustible/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_links_items_1_url]]></wp:meta_key>
@@ -6575,7 +6575,7 @@ mantenimiento]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[links_items_2_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://gastab.com.ar/combustible/#entregas]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://gastab.com.ar/que-resolvemos/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_links_items_2_url]]></wp:meta_key>
@@ -6591,8 +6591,7 @@ mantenimiento]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[links_items_3_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Grupos electrógenos 
-alquiler/venta]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Alquiler de Grupos electrógenos ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_links_items_3_title]]></wp:meta_key>
@@ -6600,7 +6599,7 @@ alquiler/venta]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[links_items_3_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://gastab.com.ar/grupos-electrogenos/#alquiler-venta]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://gastab.com.ar/alquiler-y-venta-de-grupos-electrogenos/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_links_items_3_url]]></wp:meta_key>
@@ -6768,7 +6767,7 @@ alquiler/venta]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[links_items_4_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#contacto]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://gastab.com.ar/limpieza-de-tanques/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_links_items_4_url]]></wp:meta_key>
@@ -6832,8 +6831,7 @@ alquiler/venta]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[links_items_7_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Grupos electrógenos 
-mantenimiento]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Mantenimiento de Grupos electrógenos]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_links_items_7_title]]></wp:meta_key>
@@ -6841,7 +6839,7 @@ mantenimiento]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[links_items_7_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://gastab.com.ar/grupos-electrogenos/#mantenimiento]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://gastab.com.ar/mantenimiento-grupos-electrogenos/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_links_items_7_url]]></wp:meta_key>
@@ -11603,7 +11601,7 @@ Nos adaptamos a la necesidad de abastecimiento del cliente.</td>
                 <img src="https://gastab.com.ar/wp-content/uploads/2025/03/about-delivery-02.webp" width="70" class="img-fluid" style="margin-bottom:1rem;">
                 <h3 style="font-weight:700; margin-bottom:.5rem; font-size:1.5rem;">Entrega de emergencia</h3>
                 <p style="color:#555; font-size:.9rem; flex:1;">En menos de <b>8 horas</b>, tenés tu combustible.</p>
-                <a href="https://wa.me/1153017642" class="btn btn-primary mt-3" target="_blank" style="font-size: 0.9rem; padding: 0.5rem 1rem;">Pedir urgencia</a>
+                <a href="tel:08102229754" class="btn btn-primary mt-3" style="font-size: 0.9rem; padding: 0.5rem 1rem;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         
@@ -11704,8 +11702,8 @@ Nos adaptamos a la necesidad de abastecimiento del cliente.</td>
 		<wp:post_id>1085</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-28 12:47:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-06-28 15:47:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-28 19:21:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-28 22:21:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:37:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:37:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gasoil-a-granel]]></wp:post_name>
@@ -11737,7 +11735,7 @@ Nos adaptamos a la necesidad de abastecimiento del cliente.</td>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[69]]></wp:meta_value>
+		<wp:meta_value><![CDATA[65]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
@@ -11788,7 +11786,7 @@ Tu equipo siempre listo, con la energía que necesitás, cuando la necesitás.
                 <img src="https://gastab.com.ar/wp-content/uploads/2025/03/generator-preventive-01.webp" width="70" class="img-fluid" style="margin-bottom:1rem;">
                 <h3 style="font-weight:700; margin-bottom:.5rem; font-size:1.5rem;">Guardia 24hs</h3>
                 <p style="color:#555; font-size:.9rem; flex:1;">Para la atención de urgencias los 365 días del año.</p>
-                <a href="https://wa.me/1153017642" class="btn btn-primary mt-3" target="_blank" style="font-size: 0.9rem; padding: 0.5rem 1rem;">Pedir urgencia (WhatsApp)</a>
+                <a href="tel:08102229754" class="btn btn-primary mt-3" style="font-size: 0.9rem; padding: 0.5rem 1rem;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         
@@ -11867,8 +11865,8 @@ Tu equipo siempre listo, con la energía que necesitás, cuando la necesitás.
 		<wp:post_id>1139</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-17 10:23:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-17 13:23:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-28 19:47:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-28 22:47:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:38:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:38:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mantenimiento-grupos-electrogenos]]></wp:post_name>
@@ -11904,7 +11902,7 @@ Tu equipo siempre listo, con la energía que necesitás, cuando la necesitás.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		<wp:meta_value><![CDATA[46]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11933,7 +11931,8 @@ Proveedores de combustible en todo el país
 Energía ininterrumpida, incluso en los momentosmás críticos.</span>
             <br><br>
 Nuestra flota móvil asegura que tus grupos electrógenos nunca se queden sin combustible.<br/>
-Desde pequeñas cantidades hasta grandes volúmenes, adaptamos  nuestro servicio a tus necesidades.<br/><br/>
+Desde pequeñas cantidades hasta grandes volúmenes, adaptamos 
+nuestro servicio a tus necesidades.<br/><br/>
 <b style="color: #DF2427">Combustible que llega donde lo necesitás.</b>        
 </p>
 
@@ -11955,7 +11954,7 @@ Desde pequeñas cantidades hasta grandes volúmenes, adaptamos  nuestro servic
                 <img src="https://gastab.com.ar/wp-content/uploads/2025/03/about-delivery-02.webp" width="70" class="img-fluid" style="margin-bottom:1rem;">
                 <h3 style="font-weight:700; margin-bottom:.5rem; font-size:1.5rem;">Entrega de emergencia</h3>
                 <p style="color:#555; font-size:.9rem; flex:1;">En menos de <b>8 horas</b>, tenés tu combustible.</p>
-                <a href="https://wa.me/1153017642" class="btn btn-primary mt-3" target="_blank" style="font-size: 0.9rem; padding: 0.5rem 1rem;">Pedir urgencia</a>
+                <a href="tel:08102229754" class="btn btn-primary mt-3" style="font-size: 0.9rem; padding: 0.5rem 1rem;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         
@@ -12012,8 +12011,8 @@ Desde pequeñas cantidades hasta grandes volúmenes, adaptamos  nuestro servic
 		<wp:post_id>1148</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-17 10:23:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-17 13:23:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-13 19:39:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-13 22:39:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:39:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:39:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[proveedor-de-combustible]]></wp:post_name>
@@ -12049,7 +12048,7 @@ Desde pequeñas cantidades hasta grandes volúmenes, adaptamos  nuestro servic
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12078,7 +12077,8 @@ Que nada detenga tu proyecto
 ¿Necesitás combustible en obra y buscás optimizar tiempos?</span>
             <br><br>
 
-Nosotros te llevamos el combustible directamente al lugar de trabajo,  para que tus equipos sigan operando sin interrupciones.
+Nosotros te llevamos el combustible directamente al lugar de trabajo, 
+para que tus equipos sigan operando sin interrupciones.
 
 Aseguramos el suministro constante de combustible, garantizando eficiencia y calidad para que tu obra avance según lo planeado.       
 </p>
@@ -12101,7 +12101,7 @@ Aseguramos el suministro constante de combustible, garantizando eficiencia y cal
                 <img src="https://gastab.com.ar/wp-content/uploads/2025/03/about-delivery-02.webp" width="70" class="img-fluid" style="margin-bottom:1rem;">
                 <h3 style="font-weight:700; margin-bottom:.5rem; font-size:1.5rem;">Entrega de emergencia</h3>
                 <p style="color:#555; font-size:.9rem; flex:1;">En menos de <b>8 horas</b>, tenés tu combustible.</p>
-                <a href="https://wa.me/1153017642" class="btn btn-primary mt-3" target="_blank" style="font-size: 0.9rem; padding: 0.5rem 1rem;">Pedir urgencia</a>
+                <a href="tel:08102229754" class="btn btn-primary mt-3" style="font-size: 0.9rem; padding: 0.5rem 1rem;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         
@@ -12158,8 +12158,8 @@ Aseguramos el suministro constante de combustible, garantizando eficiencia y cal
 		<wp:post_id>1163</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-17 10:24:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-17 13:24:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-13 19:39:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-13 22:39:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:38:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:38:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gasoil-para-obra]]></wp:post_name>
@@ -12191,7 +12191,7 @@ Aseguramos el suministro constante de combustible, garantizando eficiencia y cal
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12243,7 +12243,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
                 <img src="https://gastab.com.ar/wp-content/uploads/2025/03/about-delivery-02.webp" width="70" class="img-fluid" style="margin-bottom:1rem;">
                 <h3 style="font-weight:700; margin-bottom:.5rem; font-size:1.5rem;">Entrega de emergencia</h3>
                 <p style="color:#555; font-size:.9rem; flex:1;">En menos de <b>8 horas</b>, tenés tu combustible.</p>
-                <a href="https://wa.me/1153017642" class="btn btn-primary mt-3" target="_blank" style="font-size: 0.9rem; padding: 0.5rem 1rem;">Pedir urgencia</a>
+                <a href="tel:08102229754" class="btn btn-primary mt-3" style="font-size: 0.9rem; padding: 0.5rem 1rem;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         
@@ -12300,8 +12300,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1166</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-17 10:24:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-17 13:24:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-13 19:38:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-13 22:38:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:39:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:39:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recarga-de-combustible]]></wp:post_name>
@@ -12337,7 +12337,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		<wp:meta_value><![CDATA[46]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12370,7 +12370,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
     <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 2rem;">
         <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Cotizá tu pedido de Diesel 500</a>
-        <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+        <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
     </div>
 
     <div class="row g-3">
@@ -12589,16 +12589,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -12606,8 +12600,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1182</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-09 10:55:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-09 13:55:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-28 19:20:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-28 22:20:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:37:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:37:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[diesel-500]]></wp:post_name>
@@ -12631,7 +12625,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
@@ -12643,7 +12637,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12676,7 +12670,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
     <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 2rem;">
         <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Cotizá tu pedido de Euro Diesel</a>
-        <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+        <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
     </div>
 
     <div class="row g-3">
@@ -12859,16 +12853,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>
@@ -12877,8 +12865,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1184</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-09 10:58:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-09 13:58:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-28 19:20:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-28 22:20:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:37:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:37:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[euro-diesel]]></wp:post_name>
@@ -12898,7 +12886,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
@@ -12914,7 +12902,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[73]]></wp:meta_value>
+		<wp:meta_value><![CDATA[69]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12957,7 +12945,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
             <p style="color: #444; line-height: 1.6; font-size: 1.3rem;">Servicio de recirculado, filtrado y extracción para tanques de almacenamiento de combustible de plantas, obras, grupos electrógenos, edificios e instituciones. Eliminamos agua, sedimentos y contaminación microbiana, evitando daños en motores, bombas y filtros. Equipos móviles que van hasta tu instalación.</p>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 0;">
                 <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Cotizá la limpieza de tu tanque</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         <div style="flex:0 1 440px; min-width:280px;">
@@ -13212,16 +13200,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -13229,8 +13211,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1186</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-09 11:20:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-09 14:20:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-28 20:17:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-28 23:17:03]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:38:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:38:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[limpieza-de-tanques]]></wp:post_name>
@@ -13254,7 +13236,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
@@ -13266,7 +13248,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		<wp:meta_value><![CDATA[69]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13299,7 +13281,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
     <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 2rem;">
         <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Cotizá tu transporte de combustible</a>
-        <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+        <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
     </div>
 
     <div class="row g-3">
@@ -13519,16 +13501,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -13536,8 +13512,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1189</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-09 11:05:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-09 14:05:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-28 19:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-28 22:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:41:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:41:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[transporte-de-combustible]]></wp:post_name>
@@ -13569,7 +13545,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[73]]></wp:meta_value>
+		<wp:meta_value><![CDATA[69]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
@@ -13738,7 +13714,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
     <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 2rem;">
         <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Cotizá tu recarga de grupo electrógeno</a>
-        <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+        <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
     </div>
 
     <div class="row g-3">
@@ -13939,16 +13915,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Asegurar mi energía ahora</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -13956,8 +13926,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1222</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-09 11:10:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-09 14:10:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-28 19:21:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-28 22:21:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:40:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:40:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recarga-de-grupos-electrogenos]]></wp:post_name>
@@ -13993,7 +13963,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[65]]></wp:meta_value>
+		<wp:meta_value><![CDATA[61]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14020,7 +13990,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
             <p style="color: #444; line-height: 1.6; font-size: 1.3rem;">Cuando una parada no es una opción, llevamos Diesel G2, G3 y naftas hasta donde estés, fraccionados por surtidor y con emisión de ticket. Servicio disponible las 24 horas, los 365 días del año, con entregas de emergencia en menos de 8 horas.</p>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 0;">
                 <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Cotizá tu abastecimiento</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         <div style="flex:0 1 440px; min-width:280px;">
@@ -14148,7 +14118,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
                 <div style="background:#fafafa; border-radius:10px; padding:1.75rem; height:100%; box-shadow:0 2px 10px rgba(0,0,0,.05); text-align:center;">
                     <div style="width:40px; height:40px; border-radius:50%; background:#e3000f; color:#fff; display:flex; align-items:center; justify-content:center; font-weight:800; margin:0 auto 1rem;">1</div>
                     <h3 style="font-weight:700; margin-bottom:.5rem; font-size:1.1rem; color:#111;">Contactás las 24 hs</h3>
-                    <p style="color:#555; font-size:1.05rem; margin:0;">Llamás a nuestra línea de emergencias o escribís por WhatsApp a cualquier hora, todos los días del año.</p>
+                    <p style="color:#555; font-size:1.05rem; margin:0;">Llamás a nuestra línea de emergencias a cualquier hora, todos los días del año.</p>
                 </div>
             </div>
 
@@ -14231,19 +14201,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> Emergencias: 0810 222 9754
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> Pedidos 24 hs: 11 5263 5929
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-            </p>
-            <p style="margin:.6rem 0 0; font-size:1rem;">
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -14251,8 +14212,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1228</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-08 10:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-08 13:05:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-11 23:00:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-12 02:00:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:36:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:36:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[abastecimiento-de-emergencia-24hs]]></wp:post_name>
@@ -14288,7 +14249,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[74]]></wp:meta_value>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14314,7 +14275,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
             <p style="color: #444; line-height: 1.6; font-size: 1.3rem;">Llevamos Diesel G2, G3 y naftas directamente a tu base o domicilio, con carga por surtidor, emisión de ticket y muestra de calidad en cada entrega. Simplificá la logística y evitá que tu flota se detenga.</p>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 0;">
                 <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Pedí tu recarga</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         <div style="flex:0 1 440px; min-width:280px;"><!-- ===== IMAGEN 1 · HERO ===== -->
@@ -14518,19 +14479,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> Pedidos 24 hs: 11 5263 5929
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> Emergencias: 0810 222 9754
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-            </p>
-            <p style="margin:.6rem 0 0; font-size:1rem;">
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -14538,8 +14490,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1230</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-09 11:11:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-09 14:11:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-13 19:37:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-13 22:37:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:40:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:40:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recarga-flota-a-domicilio]]></wp:post_name>
@@ -14575,7 +14527,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		<wp:meta_value><![CDATA[74]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14602,7 +14554,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
             <p style="color: #444; line-height: 1.6; font-size: 1.3rem;">Llevamos Diesel G2 y G3 directamente a clubes, amarras, guarderías o tu embarcación particular. Nuestros vehículos funcionan como una estación de servicio móvil, con mangueras de 100 metros para una descarga fácil y sin esperas.</p>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 0;">
                 <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Pedí tu recarga náutica</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         <div style="flex:0 1 440px; min-width:280px;">
@@ -14807,19 +14759,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> Pedidos 24 hs: 11 5263 5929
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> Emergencias: 0810 222 9754
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-            </p>
-            <p style="margin:.6rem 0 0; font-size:1rem;">
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -14827,8 +14770,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1232</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-09 11:00:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-09 14:00:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-13 19:38:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-13 22:38:03]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:40:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:40:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recarga-nautica]]></wp:post_name>
@@ -14864,7 +14807,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		<wp:meta_value><![CDATA[74]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14890,7 +14833,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
             <p style="color: #444; line-height: 1.6; font-size: 1.3rem;">Llevamos el combustible directamente al lugar de trabajo para que tus equipos sigan operando sin interrupciones. Aseguramos un suministro constante, con eficiencia y calidad, para que tu obra avance según lo planeado.</p>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 0;">
                 <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Solicitá tu recarga en obra</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         <div style="flex:0 1 440px; min-width:280px;">
@@ -15096,19 +15039,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> Pedidos 24 hs: 11 5263 5929
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> Emergencias: 0810 222 9754
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-            </p>
-            <p style="margin:.6rem 0 0; font-size:1rem;">
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -15116,8 +15050,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1234</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-09 10:59:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-09 13:59:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-13 19:37:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-13 22:37:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:40:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:40:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recarga-en-obra-in-situ]]></wp:post_name>
@@ -15153,7 +15087,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		<wp:meta_value><![CDATA[69]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15179,7 +15113,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
             <p style="color: #444; line-height: 1.6; font-size: 1.3rem;">En modalidad de compra o alquiler, contamos con equipos listos para garantizar la continuidad de tus operaciones. Flota de 20 a 500 kVA, asesoramiento experto y soporte total con mantenimiento y suministro de combustible incluidos.</p>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 0;">
                 <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Pedí asesoramiento</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Consultar por urgencia</a>
+                <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         <div style="flex:0 1 440px; min-width:280px;">
@@ -15389,19 +15323,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar asesoramiento</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Consultar por urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> Pedidos 24 hs: 11 5263 5929
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> Emergencias: 0810 222 9754
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-            </p>
-            <p style="margin:.6rem 0 0; font-size:1rem;">
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -15409,8 +15334,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1236</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-09 10:47:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-09 13:47:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-13 19:40:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-13 22:40:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:36:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:36:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[alquiler-y-venta-de-grupos-electrogenos]]></wp:post_name>
@@ -15446,7 +15371,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[74]]></wp:meta_value>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15489,7 +15414,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
             <p style="color: #444; line-height: 1.6; font-size: 1.3rem;">Cuando tu generador falla, cada hora cuenta. Diagnosticamos y reparamos tu grupo electrógeno —de cualquier marca— para que vuelva a estar operativo lo antes posible, con servicio de emergencia disponible los 365 días del año.</p>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 0;">
                 <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Solicitá una reparación</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         <div style="flex:0 1 440px; min-width:280px;"><!-- ===== IMAGEN 1 · HERO ===== -->
@@ -15732,16 +15657,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -15749,8 +15668,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1261</wp:post_id>
 		<wp:post_date><![CDATA[2026-09-06 08:35:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-09-06 11:35:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-06 08:35:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-06 11:35:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:41:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:41:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[reparacion-de-grupos-electrogenos]]></wp:post_name>
@@ -15786,7 +15705,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		<wp:meta_value><![CDATA[69]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15829,7 +15748,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
             <p style="color: #444; line-height: 1.6; font-size: 1.3rem;">Flota propia desde 20 kVA hasta 500 kVA, con entrega inmediata, instalación y suministro de combustible incluido. Asesoramiento telefónico las 24 horas para que tu operación no se detenga.</p>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 0;">
                 <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Cotizá tu alquiler</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         <div style="flex:0 1 440px; min-width:280px;"><!-- ===== IMAGEN 1 · HERO ===== -->
@@ -16073,16 +15992,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -16090,8 +16003,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1264</wp:post_id>
 		<wp:post_date><![CDATA[2026-09-06 08:36:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-09-06 11:36:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-06 08:36:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-06 11:36:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:36:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:36:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[alquiler-grupo-electrogeno-24-horas]]></wp:post_name>
@@ -16127,7 +16040,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[61]]></wp:meta_value>
+		<wp:meta_value><![CDATA[57]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16367,16 +16280,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar asesoramiento</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Escribir por WhatsApp</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -16384,8 +16291,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1266</wp:post_id>
 		<wp:post_date><![CDATA[2026-09-06 08:35:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-09-06 11:35:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-06 08:35:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-06 11:35:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:36:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:36:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[calculo-de-grupo-electrogeno]]></wp:post_name>
@@ -16421,7 +16328,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16464,7 +16371,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
             <p style="color: #444; line-height: 1.6; font-size: 1.3rem;">El gasoil almacenado se degrada con el tiempo. Con nuestro servicio de recirculado y filtrado periódico, mantenemos tu combustible en condiciones y protegemos los equipos que dependen de él. Equipos móviles que van hasta tu instalación.</p>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 0;">
                 <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Cotizá el mantenimiento</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         <div style="flex:0 1 440px; min-width:280px;"><!-- ===== IMAGEN 1 · HERO ===== -->
@@ -16703,16 +16610,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -16720,8 +16621,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1270</wp:post_id>
 		<wp:post_date><![CDATA[2026-09-06 08:37:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-09-06 11:37:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-06 08:37:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-06 11:37:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:38:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:38:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mantenimiento-de-combustible]]></wp:post_name>
@@ -16757,7 +16658,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[74]]></wp:meta_value>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -16799,7 +16700,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
             <p style="color: #444; line-height: 1.6; font-size: 1.3rem;">Te llevamos Diesel G2, G3 y naftas de primera línea directamente a tu base, depósito, planta u obra. Desde 200 litros fraccionados por surtidor hasta grandes volúmenes, con calidad, trazabilidad y entregas las 24 horas.</p>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0 0;">
                 <a href="https://gastab.com.ar/contacto/" class="btn btn-primary" style="padding: .75rem 1.75rem; font-size: 1rem;">Cotizá tu abastecimiento</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="padding: .75rem 1.75rem; font-size: 1rem; border: 2px solid #e3000f; color: #e3000f; background: #fff; border-radius: .375rem; text-decoration: none; font-weight: 600; display:inline-block; text-align:center;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
         </div>
         <div style="flex:0 1 440px; min-width:280px;"><!-- ===== IMAGEN 1 · HERO ===== -->
@@ -17046,16 +16947,10 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Solicitar cotización</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
 </section>]]></content:encoded>
@@ -17063,8 +16958,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		<wp:post_id>1272</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-13 19:33:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-13 22:33:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-28 19:19:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-28 22:19:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:35:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:35:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[abastecimiento-de-combustible-para-empresas]]></wp:post_name>
@@ -17088,7 +16983,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
@@ -17100,7 +16995,7 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -17239,25 +17134,20 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 
             <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-bottom:1.8rem;">
                 <a href="https://gastab.com.ar/contacto/" style="background:#fff; color:#e3000f; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none;">Hablá con un asesor</a>
-                <a href="https://wa.me/5491153017642" target="_blank" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedir con urgencia</a>
+                <a href="tel:08102229754" style="background:transparent; color:#fff; font-weight:700; padding:.85rem 1.8rem; border-radius:.375rem; text-decoration:none; border:2px solid #fff;">Pedidos y consultas 24 hs: <span style="white-space:nowrap;">0810-222-9754</span></a>
             </div>
 
-            <p style="margin:0; font-size:1rem;">
-                <i class="fas fa-phone" style="margin-right:.5rem;"></i> +54 9 11 5301-7642
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-envelope" style="margin-right:.5rem;"></i> info@gastab.com.ar
-                &nbsp;&nbsp;|&nbsp;&nbsp;
-                <i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i> Av. Intendente Crovara 1801, La Tablada, Buenos Aires
-            </p>
+            <p style="margin:0; font-size:1rem;"><span style="display:inline-block;"><i class="fas fa-envelope" style="margin-right:.5rem;"></i>info@gastab.com.ar&nbsp;&nbsp;|</span> <span style="display:inline-block; margin-left:.4rem;"><i class="fas fa-map-marker-alt" style="margin-right:.5rem;"></i>Av. Intendente Crovara 1801, La Tablada, Buenos Aires</span></p>
         </div>
     </div>
-</section>]]></content:encoded>
+</section>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1314</wp:post_id>
 		<wp:post_date><![CDATA[2026-09-10 20:39:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-09-10 23:39:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-10 20:40:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-10 23:40:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-29 19:39:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-29 22:39:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[que-resolvemos]]></wp:post_name>
@@ -21273,8 +21163,8 @@ La tranquilidad de contar con Diesel de alta calidad, entregado de forma rápida
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Caché de objetos 9/15 objetos usando Disk
+Caché de objetos 10/15 objetos usando Disk
 Almacenamiento en caché de páginas con Disk: Enhanced{w3tc_pagecache_reject_reason}
 
-Served from: gastab.com.ar @ 2026-09-28 20:18:05 by W3 Total Cache
+Served from: gastab.com.ar @ 2026-09-29 19:41:54 by W3 Total Cache
 -->
