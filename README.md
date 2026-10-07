@@ -364,7 +364,10 @@ llegada rápida. Cobertura: desde CABA hasta 300 km (dato de Diego).
 - Si en wp-admin → Site options → Forms se activa "Enable external code" y
   se carga código, ese código reemplaza al iframe (sin duplicar).
 - El iframe tiene `height:500px` (valor de Zoho); ajustar si se corta.
-- Aparte: 5 páginas (`gasoil-a-granel`, `mantenimiento-grupos-electrogenos`,
+- Las 5 páginas que tenían el script viejo de Zoho CRM pegado en su
+  contenido (`gasoil-a-granel`, `mantenimiento-grupos-electrogenos`,
   `proveedor-de-combustible`, `gasoil-para-obra`, `recarga-de-combustible`)
-  tienen el script **viejo** de Zoho CRM pegado en su contenido —
-  **pendiente** decidir si se reemplaza por el de Zoho Forms.
+  ahora usan el embed **JavaScript** de Zoho Forms (`zf_div_...`), que ajusta
+  la altura sola. El script es una versión reescrita del de Zoho **sin
+  ningún `&`**: WordPress convierte `&&` en `&#038;&#038;` al guardar y rompe
+  el JS. No pegar el código original de Zoho tal cual en el editor.
