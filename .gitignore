@@ -1,0 +1,7 @@
+# wp-content: versionar solo el tema gastab
+/wp-content/wp-content/*
+!/wp-content/wp-content/themes/
+/wp-content/wp-content/themes/*
+!/wp-content/wp-content/themes/gastab/
+
+.DS_Store

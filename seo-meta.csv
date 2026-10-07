@@ -27,6 +27,7 @@ alquiler-grupo-electrogeno-24-horas,alquiler de grupo electrógeno 24 horas,"Alq
 calculo-de-grupo-electrogeno,cálculo de grupo electrógeno,"Aprendé a calcular la potencia en kVA de tu grupo electrógeno paso a paso, con fórmula, ejemplo y asesoramiento de Gastab.",listo
 mantenimiento-de-combustible,mantenimiento de combustible almacenado,Mantenimiento de combustible almacenado: recirculado y filtrado periódico para evitar fallas en motores y equipos.,listo
 abastecimiento-de-combustible-para-empresas,abastecimiento de combustible para empresas,"Abastecimiento de combustible para empresas: Diesel G2, G3 y naftas, desde 200 litros hasta grandes volúmenes, 24/7.",listo
+que-resolvemos,,,pendiente - definir keyword y meta description (página publicada en WP, faltaba en el listado)
 recursos,,,vacía en el export - confirmar en wp-admin
 politica-de-privacidad,,,vacía en el export - confirmar en wp-admin
 terminos-del-servicio,,,vacía en el export - confirmar en wp-admin
@@ -52,3 +53,6 @@ combustible/la-plata-berisso-ensenada,"combustible para agro e industria La Plat
 grupos-electrogenos/la-plata-berisso-ensenada,"mantenimiento de grupos electrógenos La Plata, Berisso y Ensenada","Mantenimiento, reparación y servicio de tanque de grupos electrógenos en La Plata, Berisso y Ensenada. Guardia 24/7. Cobertura de toda la zona.",listo
 combustible/zonas-de-cobertura,combustible por zona Buenos Aires Santa Fe,Cobertura de combustible para agro e industria por zona en el interior de Buenos Aires y Santa Fe. Elegí tu zona y consultá con Gastab.,listo
 grupos-electrogenos/zonas-de-cobertura,grupos electrógenos por zona Buenos Aires Santa Fe,Cobertura de mantenimiento de grupos electrógenos por zona en el interior de Buenos Aires y Santa Fe. Elegí tu zona y consultá con Gastab.,listo
+corte-de-luz-combustible-generador,combustible para generadores eléctricos,"¿Se cortó la luz? Combustible para generadores eléctricos de empresas y edificios, en menos de 8 hs. Hasta 300 km desde CABA, 24/7.",listo - landing de campaña (noindex)
+diesel-para-generadores,diesel para generadores eléctricos,"Diesel para generadores eléctricos de empresas y consorcios. Entrega de emergencia en menos de 8 hs, hasta 300 km desde CABA, 24/7.",listo - landing de campaña (noindex)
+combustible-generador-emergencia,combustible para generadores eléctricos,"Combustible de emergencia para generadores eléctricos: corte de luz, tanque vacío o equipo inundado. Hasta 300 km desde CABA, 24/7.",listo - landing de campaña (noindex)

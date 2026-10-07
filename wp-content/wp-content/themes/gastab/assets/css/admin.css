@@ -1,0 +1,167 @@
+/* Admin */
+
+#wp-admin-bar-wp-logo,
+#wp-admin-bar-updates,
+#wp-admin-bar-comments,
+#wp-admin-bar-new-content,
+#welcome-panel,
+[for="wp_welcome_panel-hide"] {
+    display: none !important;
+}
+
+
+#your-profile h2,
+#your-profile .show-admin-bar,
+#your-profile .user-description-wrap,
+#your-profile .user-profile-picture,
+#your-profile .yoast.yoast-settings,
+#your-profile .user-rich-editing-wrap,
+#your-profile .user-admin-color-wrap,
+#your-profile .user-comment-shortcuts-wrap,
+#your-profile .user-language-wrap,
+#your-profile .user-display-name-wrap,
+#your-profile .user-nickname-wrap,
+#your-profile .user-url-wrap,
+#your-profile .user-facebook-wrap,
+#your-profile .user-instagram-wrap,
+#your-profile .user-linkedin-wrap,
+#your-profile .user-myspace-wrap,
+#your-profile .user-pinterest-wrap,
+#your-profile .user-soundcloud-wrap,
+#your-profile .user-tumblr-wrap,
+#your-profile .user-twitter-wrap,
+#your-profile .user-youtube-wrap,
+#your-profile .user-wikipedia-wrap,
+#your-profile #application-passwords-section{
+    display: none !important;
+}
+
+/* MATI manager */
+
+.mati-manager *{
+    box-sizing: border-box;
+}
+.mati-manager #wpcontent{
+    padding: 0;
+}
+.mati-manager .wrap{
+    padding: 0;
+    margin: 0;
+}
+
+.mati-manager input:not([type="submit"]),
+.mati-manager select,
+.mati-manager textarea{
+    padding: 3px 8px;
+    color: #171717;
+    background-color: #fff;
+    border-color: #D0D5DD;
+    border-radius: 6px;
+    font-size: 14px;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.1);
+}
+.mati-manager input[type="color"]{
+    padding: 2px 4px;
+    border-radius: 0;
+}
+.mati-manager input:not([type="submit"]):focus,
+.mati-manager select:focus,
+.mati-manager textarea:focus{
+    border-color: rgba(0,0,0,0.3);
+    box-shadow: 0px 3px 5px rgba(16, 24, 40, 0.1);
+}
+.mati-manager select{
+    padding-right: 30px;
+}
+.mati-manager textarea{
+    padding: 8px;
+}
+
+.mati-manager .button{
+    font-size: 14px;
+    min-height: 35px;
+    padding: 0 15px;
+    border-radius: 50px;
+}
+.mati-manager .button-primary.focus,
+.mati-manager .button-primary:focus{
+    box-shadow: none;
+}
+.mati-manager .form-table{
+    margin-bottom: 30px;
+}
+
+.mati-manager .mati-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 110px;
+    padding: 15px 30px;
+    background: #fff;
+    border: 0;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.1);
+}
+.mati-manager .mati-header .mati-logo{
+    max-width: 163px;
+}
+.mati-manager .mati-header .mati-logo img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.mati-manager .mati-header .mati-main-title .mati-title h1{
+    margin: 0;
+    font-size:23px;
+    line-height: 1.3em;
+    font-weight: 600;
+}
+.mati-manager .mati-header .mati-main-title .mati-title h1 small{
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.mati-manager .mati-nav{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background: rgba(0,0,0,0.05);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.1);
+}
+
+.mati-manager .mati-nav .nav-tab{
+    margin: 0;
+    padding: 15px 25px;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+    transition: 0.3s all;
+    outline: 0;
+    cursor: pointer;
+}
+.mati-manager .mati-nav .nav-tab:hover{
+    background: rgba(0, 0, 0, 0.1);
+    color: #151515;
+}
+.mati-manager .nav-tab.nav-tab-active,
+.mati-manager .nav-tab.nav-tab-active:hover,
+.mati-manager .nav-tab:active{
+    background: #151515;
+    color: #fff;;
+    box-shadow: none;
+}
+
+.mati-manager .mati-content{
+    position: relative;
+    max-width: 1280px;
+    padding: 30px 30px;
+    margin: 0;
+}
+
+.mati-manager .tab-content{
+    display: none;
+}
+.mati-manager .tab-content.active { 
+    display: block;
+}

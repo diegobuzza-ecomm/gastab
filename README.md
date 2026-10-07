@@ -5,8 +5,10 @@
 > cada conversación.
 
 Origen: `gastab.WordPress.20260910.xml` (export WXR del 2026-09-10), 31
-páginas. Es una **foto de ese momento**, no el estado en vivo del sitio —
-si pasó tiempo, confirmar contra wp-admin antes de asumir que algo sigue igual.
+páginas. Export más reciente en la carpeta: `gastab.WordPress.2026-10-07.xml`
+(54 páginas, incluye las 22 de zonas y `que-resolvemos`). Cada export es una
+**foto de ese momento**, no el estado en vivo del sitio — si pasó tiempo,
+confirmar contra wp-admin antes de asumir que algo sigue igual.
 
 Repo: https://github.com/diegobuzza-ecomm/gastab
 
@@ -35,6 +37,10 @@ el historial.
   subcarpeta por cada nivel (`paginas/combustible/pergamino.html` →
   `/combustible/pergamino/`). Las imágenes ya vienen como URL completa
   dentro del HTML.
+- `que-resolvemos` (`/que-resolvemos/`, publicada en WP el 2026-09-10):
+  página índice "¿Qué necesitás?" con tarjetas por situación que linkean a
+  los servicios. Agregada a los CSV el 2026-10-07 (faltaba); keyword y meta
+  description pendientes.
 - 3 páginas vacías en el export (`recursos`, `politica-de-privacidad`,
   `terminos-del-servicio`) — **pendiente** confirmar en wp-admin si tienen
   contenido real en el sitio en vivo (el export puede haber quedado
@@ -226,9 +232,12 @@ botón de contacto: texto "Contacto", ícono de teléfono en SVG blanco,
 "Atención 24/7", botones parejos en alto y ancho). Confirmado 2026-09-28:
 sí está cargado y publicado en WordPress (ver estado de publicación abajo).
 
-**Pendiente:**
-- Subir las imágenes de cada zona (nombre de archivo esperado, dentro del
-  placeholder de cada página) y reemplazar los `.img-placeholder`.
+**Imágenes — resuelto (verificado 2026-10-07):** las 20 páginas de zona ya
+no tienen `.img-placeholder`. Cada una usa 3 imágenes reales: el mapa propio
+de la zona (`<zona>-mapa.jpg`; en 9 de Julio, `mapa-9-de-julio.jpg`) y 2
+imágenes compartidas por las 20 páginas (`camion-gastab-opaco2-1.jpg` y
+`generador-con-operador-opaco-1.jpg`), no las `-01`/`-02` por zona que se
+planearon.
 
 **Limpieza pendiente en el proyecto local** (Claude no puede borrar/mover
 archivos en la compu de Diego, solo escribir — lo hace él a mano):
@@ -243,13 +252,16 @@ diferencia entre un archivo de `paginas/` y el contenido real en WordPress,
 se corrige el LOCAL para que quede igual a WP — no al revés — salvo que
 Diego pida explícitamente lo contrario para un caso puntual.
 
-**Publicación en WordPress** (confirmado contra export WXR
-`gastab.WordPress.2026-09-28 (3).xml`, pubDate 23:18 GMT): de las 20
-páginas de zona + `zonas-de-cobertura` (combustible y grupos-electrogenos),
-**solo Pergamino (ambos servicios) está en estado `publish`**. Las 9 zonas
-restantes + `zonas-de-cobertura` están en `draft` — cargadas en WordPress
-pero no publicadas. **Diego confirmó que esto está bien así por ahora, no
-es un pendiente** (no se va a publicar todavía).
+**Publicación en WordPress** (actualizado 2026-10-07, contra export
+`gastab.WordPress.2026-10-07.xml`): **las 20 páginas de zona y los 2
+`zonas-de-cobertura` están en `publish`** (publicadas el 2026-10-06).
+Hasta el 2026-09-28 solo Pergamino estaba publicada y el resto en `draft`.
+
+**Diff local vs WordPress (2026-10-07, último export 13:24):** las 43 páginas de `paginas/`
+(21 sueltas + 11 `combustible/` + 11 `grupos-electrogenos/`)
+coinciden con WordPress (3 difieren solo en espacios/saltos de línea:
+`mantenimiento-grupos-electrogenos`, `proveedor-de-combustible`,
+`gasoil-para-obra`).
 
 **Diff completo local vs WordPress (2026-09-28), único hallazgo real:**
 - `reparacion-de-grupos-electrogenos.html` tenía de más el bloque cross-link
@@ -268,6 +280,62 @@ contenido de "Reparación de Grupos Electrógenos 24/7" en vez del propio.
 Se corrigió directo en WordPress; el archivo local nunca tuvo el problema.
 
 **Corrección de compliance (no negociable, verificar en cualquier
-contenido nuevo):** no se hace análisis in-situ del combustible. Se toma
-muestra y contramuestra, que se analizan solo si se requiere después. El
-sitio no debe decir "análisis en el momento/in-situ".
+contenido nuevo):** Gastab no hace análisis del combustible en destino. Se
+toma muestra y contramuestra en cada entrega. **El sitio no debe mencionar
+"análisis" del combustible en ningún formato** (ni "análisis de calidad", ni
+"disponibles para análisis", ni "analizada/analizado"). Al revisar, buscar
+todas las variantes (`anali`, `análi`), no solo "análisis".
+
+Aplicado 2026-10-07, pegado en WordPress y verificado contra export:
+- Tanda 1 (17 páginas): `diesel-500`, `euro-diesel`,
+  `abastecimiento-de-combustible-para-empresas`,
+  `abastecimiento-de-emergencia-24hs`, `transporte-de-combustible`,
+  `gasoil-a-granel`, `que-resolvemos` y las 10 `combustible/<zona>`.
+- Tanda 2 (7 páginas, "Cada gota es analizada y registrada" y variantes →
+  "Cada entrega queda registrada, con muestra y contramuestra"):
+  `gasoil-a-granel`, `gasoil-para-obra`, `mantenimiento-grupos-electrogenos`,
+  `proveedor-de-combustible`, `recarga-de-combustible`,
+  `recarga-en-obra-in-situ`, `recarga-nautica`.
+
+**Pendiente — "análisis" en páginas ACF** (no están en este repo, se editan
+campo por campo en wp-admin):
+- `quienes-somos`: ítem de lista "Análisis de calidad de productos."
+- `quienes-somos`: campo `benefits_items_2_description` ("Cada gota es
+  analizada y registrada.").
+- `combustible`: campo `delivery_items_1_title` ("Calidad garantizada:
+  Análisis de calidad de productos y trazabilidad.").
+- `combustible`: campo `manuals_items_7_title` "Análisis térmico" (link a
+  `Analisis-Termico.pdf`) — parece un manual descargable, no una promesa de
+  servicio; Diego decide si queda.
+
+## Landings de campaña: combustible para generadores (2026-10-07)
+
+3 landings para campañas pagas, pensadas para cortes de luz y generadores
+inundados. Clientes: empresas y consorcios de vivienda. Foco: emergencia y
+llegada rápida. Cobertura: desde CABA hasta 300 km (dato de Diego).
+
+| Slug | Enfoque | Keyword Yoast |
+|---|---|---|
+| `corte-de-luz-combustible-generador` | urgencia directa ("¿Se cortó la luz?") | combustible para generadores eléctricos |
+| `diesel-para-generadores` | por cliente (empresas / consorcios) | diesel para generadores eléctricos |
+| `combustible-generador-emergencia` | por situación (corte / inundado / tanque vacío) | combustible para generadores eléctricos |
+
+- Publicadas el 2026-10-07, sin página padre y fuera del menú.
+- **Las 3 van con `noindex`** (Yoast → Avanzado), porque comparten keyword
+  y casi todo el contenido: indexadas competirían entre sí. Sirven como
+  destino de anuncios (un grupo de anuncios por landing) para medir cuál
+  convierte mejor. Si alguna pasa a indexable, revisar canibalización con
+  `recarga-de-grupos-electrogenos` y `abastecimiento-de-emergencia-24hs`.
+- JSON-LD `Service` con `areaServed` `GeoCircle` (centro CABA, radio 300 km)
+  y `url` propia de cada página.
+- Solo usan datos que ya están en el sitio: 24/7, emergencia en menos de 8
+  horas, desde 200 litros por surtidor con ticket, Diesel 500 para
+  generadores estacionarios, reparación multimarca, extracción/filtrado de
+  combustible, equipos de respaldo en alquiler.
+- **Pendiente confirmar:** que la entrega en menos de 8 horas valga para
+  todo el radio de 300 km.
+- El HTML fuente de las 3 opciones también está en `Claude outputs/`
+  (`combustible-para-generadores-opcion-1/2/3.html` + previews).
+- **Pendiente:** verificar contra el próximo export que el contenido en WP
+  coincide con `paginas/` y que las 3 tienen `_yoast_wpseo_meta-robots-noindex`.
+

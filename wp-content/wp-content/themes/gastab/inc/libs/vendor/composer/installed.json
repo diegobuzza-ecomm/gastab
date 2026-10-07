@@ -1,0 +1,51 @@
+[
+    {
+        "name": "shuchkin/simplexlsxgen",
+        "version": "0.9.20",
+        "version_normalized": "0.9.20.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/shuchkin/simplexlsxgen.git",
+            "reference": "a8093b9d8e5f3b607cd969580debdd2159edd185"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/shuchkin/simplexlsxgen/zipball/a8093b9d8e5f3b607cd969580debdd2159edd185",
+            "reference": "a8093b9d8e5f3b607cd969580debdd2159edd185",
+            "shasum": ""
+        },
+        "require": {
+            "ext-mbstring": "*",
+            "ext-zlib": "*"
+        },
+        "time": "2020-10-04T10:08:32+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "src/SimpleXLSXGen.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Sergey Shuchkin (SMSPILOT)",
+                "email": "sergey.shuchkin@gmail.com",
+                "homepage": "https://shuchkin.ru/"
+            }
+        ],
+        "description": "Export data to Excel XLSx file. PHP XLSX generator.",
+        "homepage": "https://github.com/shuchkin/simplexlsxgen",
+        "keywords": [
+            "backend",
+            "creator",
+            "excel",
+            "generator",
+            "php",
+            "xlsx"
+        ]
+    }
+]
