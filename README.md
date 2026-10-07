@@ -14,7 +14,8 @@ Repo: https://github.com/diegobuzza-ecomm/gastab
 
 ## Git — comandos básicos
 
-Desde esta carpeta, después de cualquier cambio en `paginas/` o `manifest.csv`:
+Desde esta carpeta, después de cualquier cambio en `paginas/`, `manifest.csv`
+o el tema (`wp-content/wp-content/themes/gastab/`):
 
 ```
 git add -A
@@ -27,6 +28,11 @@ el historial.
 
 ## Estructura
 
+- `wp-content/` — copia de `wp-content` del servidor (bajada con el file
+  manager el 2026-10-07; queda anidada: `wp-content/wp-content/`). **Solo se
+  versiona el tema `themes/gastab/`**; el resto (plugins, uploads, cache,
+  `debug.log`) está excluido en `.gitignore`. Los cambios al tema se suben
+  al servidor a mano con el file manager, en la misma ruta.
 - `manifest.csv` — listado maestro: slug, título, tipo, parent, url, archivo.
 - `seo-meta.csv` — keyword y meta description por página, columna `estado`
   (listo / pendiente / revisar).
@@ -339,3 +345,26 @@ llegada rápida. Cobertura: desde CABA hasta 300 km (dato de Diego).
 - **Pendiente:** verificar contra el próximo export que el contenido en WP
   coincide con `paginas/` y que las 3 tienen `_yoast_wpseo_meta-robots-noindex`.
 
+## Formulario de contacto (home y Contacto) — 2026-10-07
+
+- El formulario al pie de la home (sección `#contacto`) y el de la página
+  Contacto salen del tema, no del contenido de la página:
+  `page-home.php` → `module_contact()` (`templates/modules/module-contact.php`)
+  → `contactFormExternal()` (`inc/functions/contactFormExternal.php`).
+  `page-contact.php` llama a la misma función.
+- El título y la descripción sobre el formulario salen del campo ACF
+  `contact` de la página Contacto (se editan en wp-admin).
+- **Cambio aplicado y probado en el sitio:** `contactFormExternal.php` ahora
+  muestra el formulario de **Zoho Forms** "Contacto" (iframe
+  `forms.zohopublic.com/gastab1/form/Contacto/...`) en lugar del script del
+  Web Form de Zoho CRM. Los campos se editan en forms.zoho.com.
+- Se eliminó del archivo el código muerto (form PHP viejo, después de un
+  `return`), que incluía la clave secreta de reCAPTCHA en texto plano.
+  **Pendiente:** rotar esa clave en Google reCAPTCHA si sigue en uso.
+- Si en wp-admin → Site options → Forms se activa "Enable external code" y
+  se carga código, ese código reemplaza al iframe (sin duplicar).
+- El iframe tiene `height:500px` (valor de Zoho); ajustar si se corta.
+- Aparte: 5 páginas (`gasoil-a-granel`, `mantenimiento-grupos-electrogenos`,
+  `proveedor-de-combustible`, `gasoil-para-obra`, `recarga-de-combustible`)
+  tienen el script **viejo** de Zoho CRM pegado en su contenido —
+  **pendiente** decidir si se reemplaza por el de Zoho Forms.
